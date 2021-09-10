@@ -1,0 +1,1020 @@
+#EXTM3U
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png", TVRI
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6441.m3u8
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png", RCTI
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-665.m3u8
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="http://kamiselaluada.com/img/rcti.png",RCTI
+https://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png", SCTV
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-204.m3u8
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png", GTV
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-778.m3u8
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="http://kamiselaluada.com/img/gtv.png",GTV
+https://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png", KompasTV
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-874.m3u8
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="http://kamiselaluada.com/img/kompastv.png",KOMPAS TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png", Trans7
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-734.m3u8
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png", TransTV
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-733.m3u8
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png", Metro tv
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-777.m3u8
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="http://kamiselaluada.com/img/metrotv.png",METRO TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png", INDOSIAR
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-205.m3u8
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png", MNC tv
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-870.m3u8
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png", Berita satu
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6165.m3u8
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="http://kamiselaluada.com/img/bs.png",BERITA SATU
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="http://kamiselaluada.com/img/bsworld.png",BERITA SATU WORLD
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png", I news
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-5409.m3u8
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="http://kamiselaluada.com/img/inews.png",iNEWS
+https://live.unregister.xyz/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png", JAKTV
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-5415.m3u8
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="http://kamiselaluada.com/img/jitv.png",JITV
+http://202.169.224.76:1935/tv/jitv/chunklist_kamiselaluada.m3u8
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="http://kamiselaluada.com/img/ntv.png",Nusantara TV
+https://v6.siar.us/nusantaratv/live/kamiselaluada_chunks.m3u8
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="http://kamiselaluada.com/img/jtv.png",JTV
+http://122.248.43.138:1935/ch2/myStream/chunklist_kamiselaluada.m3u8
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png", O channel
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-206.m3u8
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png", MYTV
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6711.m3u8
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png", DAAITV
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6482.m3u8
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png", Ajwa TV
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-7464.m3u8
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png", Alquran Kareem
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6852.m3u8
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png", O shop
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6166.m3u8
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png", DW
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-5075.m3u8
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png", Tv edukasi
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6838.m3u8
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="http://kamiselaluada.com/img/magnatv.png", Magna TV
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_ShareExt_b3884000_sleng.m3u8
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="http://kamiselaluada.com/img/rri.png",RRI NET
+http://36.89.47.217:11935/rrinet/live/chunklist_kamiselaluada.m3u8
+
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="http://kamiselaluada.com/img/mta.png",MTA TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="http://kamiselaluada.com/img/rodjatv.png",RODJA TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/manifest.mpd
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="http://kamiselaluada.com/img/mytv.png",MYTV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(915b425f-d5f6-4d77-9a60-857a7b14cb8b)/manifest.mpd
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="http://kamiselaluada.com/img/mcc.png",MCC
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9430f215-8ccb-4322-affd-6dbc97e259bd)/manifest.mpd
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="http://kamiselaluada.com/img/ruangterampil.png",Ruang Trampil
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/manifest.mpd
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="http://kamiselaluada.com/img/jaktv.png",JAK TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/manifest.mpd
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="http://kamiselaluada.com/img/jtv.png",JTV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/manifest.mpd
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="http://kamiselaluada.com/img/digione.png",DIGIONE MAXSTREAM
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="http://kamiselaluada.com/img/magnatv.png",Magna TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="http://kamiselaluada.com/img/rtv.png",RTV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="http://kamiselaluada.com/img/channel4u.png",Channel 4U
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(81b456ab-b398-4d35-ae05-9be0a173ad71)/manifest.mpd
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="http://kamiselaluada.com/img/tic.png",The Indonesia Channel
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/manifest.mpd
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="http://kamiselaluada.com/img/useephoto.png",Usee Photo
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/manifest.mpd
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="http://kamiselaluada.com/img/balitv.png",Bali TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/manifest.mpd
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="http://kamiselaluada.com/img/tvedukasi.png",TV Edukasi
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/manifest.mpd
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="http://kamiselaluada.com/img/seatoday.png",SEA TODAY
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="https://i.ibb.co/GT70CtB/20200225-084711.png",RCTI
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="https://i.ibb.co/3Bk8qLp/20200225-084949.png",MNC TV
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="https://i.ibb.co/Gn7JV1j/20200225-085141.png",ANTV HD
+http://nonton.wap.sh/id/001.m3u8
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="https://i.ibb.co/pbRnLPv/20200225-085322.png",SCTV HD
+http://nonton.wap.sh/id/009.m3u8
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png",INDOSIAR HD
+http://nonton.wap.sh/id/002.m3u8
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="https://i.ibb.co/Tg53dB7/20200225-085803.png",GTV
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="https://i.ibb.co/SNXKfjF/20200225-090137.png",TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="https://i.ibb.co/5kmbfJv/20200225-090905.png",TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="https://i.ibb.co/M2M4crG/20200225-090315.png",INEWS
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="https://i.ibb.co/VQRrBtd/20200225-090424.png",METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w727508021_b628000_sleng.m3u8
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="https://i.ibb.co/3mbCw3Q/20200225-090600.png",CNN Indonesia HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="https://i.ibb.co/jyKgLhq/20200225-092529.png",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png",TVRI
+http://118.97.50.107:80/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="https://i.ibb.co/h72L4n4/20200225-093530.png",KOMPAS TV
+http://210.210.155.35/qwr9ew/s/s104/01.m3u8
+#EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="https://i.ibb.co/tLYQsTm/20200225-091407.png",BERITA SATU
+http://nonton.wap.sh/id/015.m3u8
+#EXTINF:-1 group-title="NEW DAERAH" tvg-logo="https://i.imgur.com/AhAy58i.png",BAYU TV [nganjuk]
+http://wms.klikhost.com/bayutv/live/playlist.m3u8
+#EXTINF:-1 group-title="NEW DAERAH" tvg-logo="https://i.imgur.com/pAFDc2M.png",BALIKPAPAN TV
+http://122.248.43.138:1935/ch10/myStream/chunklist_w1318591234.m3u8
+#EXTINF:-1 group-title="NEW DAERAH" tvg-logo="https://i.postimg.cc/VLTGnqGX/BMS-TV.png",BMS TV
+http://bmstv.onlivestreaming.net/bmstv/livestream/chunks.m3u8
+#EXTINF:-1 group-title="NEW DAERAH" tvg-logo="https://i.imgur.com/305Uxpi.png",Cahaya Banten TV
+http://103.23.201.170:1935/live/livestream/lihattv.m3u8?
+#EXTINF:-1 group-title="NEW DAERAH" tvg-logo="https://i.postimg.cc/mZdcTXJT/JAMBI-TV.png",JAMBI TV
+http://122.248.43.138:1935/ch23/myStream/chunklist_w88244984.m3u8
+#EXTINF:-1 group-title="NEW DAERAH" tvg-logo="https://i.postimg.cc/DySfXFhR/JAWAPOS-TV.png",JawaPostv
+http://122.248.43.138:1935/ch6/myStream/live.m3u8
+#EXTINF:-1 group-title="NEW DAERAH" tvg-logo="https://i.postimg.cc/sDbjP8Dx/JEK-TV.png",JekTv Jambi
+http://122.248.43.138:1935/ch14/myStream/live.m3u8
+#EXTINF:-1 group-title="NEW DAERAH" tvg-logo="https://i.postimg.cc/sgr2FmhJ/LOMBOK-TV.png",Lombok TV
+http://103.23.201.170:1935/live/lbtv/chunklist_w1995349508.m3u8
+#EXTINF:-1 group-title="NEW DAERAH" tvg-logo="https://i.postimg.cc/mrWm6bGD/PADANG-TV.png",PADANG TV
+http://122.248.43.138:1935/ch16/myStream/chunklist_w1265493922.m3u8
+#EXTINF:-1 group-title="NEW DAERAH" tvg-logo="https://i.postimg.cc/5N6Xy5WL/PRIMA-TV.png",PRIMA TV
+http://primatv.onlivestreaming.net/primatv/livestream/chunks.m3u8?
+#EXTINF:-1 group-title="NEW DAERAH" tvg-logo="https://i.postimg.cc/TwQ2r3pv/RIAU-TV.png",Riau TV
+http://122.248.43.138:1935/ch11/myStream/chunklist_w2044873838.m3u8
+#EXTINF:-1 group-title="NEW DAERAH" tvg-logo="https://i.postimg.cc/65gyv7BS/SAKTI-TV.png",SAKTI TV
+http://video2.onlivestreaming.net/saktitv/livestream/chunks.m3u8
+#EXTINF:-1 group-title="NEW DAERAH" tvg-logo="https://i.postimg.cc/KzZJxJjh/SIMPANG-5-TV.png",SIMPANG 5 TV
+http://122.248.43.138:1935/ch4/myStream/chunklist_w1341916192.m3u8
+#EXTINF:-1 group-title="NEW DAERAH" tvg-logo="https://i.imgur.com/rNkGFjI.png",TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1 group-title="NEW DAERAH" tvg-logo="https://i.postimg.cc/4xcnbJd3/TVTPI.png",TVTPI
+http://103.30.246.47:1935/tvtpi/smil:live.smil/chunklist_w1141324132_b1996608_sleng.m3u8
+#EXTINF:-1 group-title="NEW DAERAH" tvg-logo="https://i.postimg.cc/T1QW4qr4/BADAR-TV.png",BADAR TV
+https://e1.siar.us/badartv/live/playlist.m3u8
+#EXTINF:-1 group-title="NEW DAERAH" tvg-logo="https://i.postimg.cc/kX8vStpX/bandung-tv.png",Bandung TV
+http://202.150.153.254/bandungtv720p.m3u8
+#EXTINF:-1 group-title="NEW DAERAH" tvg-logo="https://i.postimg.cc/ZqJ9wG6n/magna-channel.png",MAGNA TV
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b3884000_sleng.m3u8
+#EXTINF:-1 group-title="NEW DAERAH" tvg-logo="https://i.imgur.com/Qn1ECVd.png",Radar Cirebon TV
+https://v10.siar.us/rctv/live/playlist.m3u8
+#EXTINF:-1 group-title="NEW DAERAH" tvg-logo="https://i.postimg.cc/cJdp2Wnw/the-indonesia-channel.png",THE INDONESIA CHANNEL
+https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
+#EXTINF:-1 group-title="NEW DAERAH" tvg-logo="https://i.postimg.cc/cCdnh583/UGTV.png",UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://telegra.ph/file/a617ac1c52b5959136d28.jpg",A- Supersport
+http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://telegra.ph/file/a75a3433be5f2bbff15f0.png",FOX Sports HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6793
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://telegra.ph/file/0f50aab47d268d6202749.png",FOX Sports 2 HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6791
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://telegra.ph/file/b0dce0ceef587702ca48b.png",FOX Sports 3 HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6792
+#EXTINF:-1 group-title="NEW-MOVIE" tvg-logo="https://i.postimg.cc/W4814StH/FLIX.png",&flix HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="NEW-MOVIE" tvg-logo="https://i.postimg.cc/pT1VfTfQ/PICTURES.png",&pictures
+https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="NEW-MOVIE" tvg-logo="https://i.postimg.cc/gJ5CN6nD/prive-hd.png",&PRIVE HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="NEW-MOVIE" tvg-logo="https://i.postimg.cc/8zTCNvDg/AMERICAN-HORRORS.png",AMERICAN HORRORS
+http://170.178.189.66:1935/live/Stream1/chunklist_w140565975.m3u8
+#EXTINF:-1 group-title="NEW-MOVIE" tvg-logo="https://i.postimg.cc/PfwJ92zT/bflix.png",Bflix MOVIES
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+#EXTINF:-1 group-title="NEW-MOVIE" tvg-logo="https://i.postimg.cc/RV70kRkT/BLACK-CINEMA.png",BLACK CINEMA
+https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/997452/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceType=web&deviceMake=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&deviceDNT=0&deviceModel=Chrome&userId=&appName=&app_name=&appStoreUrl=
+#EXTINF:-1 group-title="NEW-MOVIE" tvg-logo="https://i.postimg.cc/hvkSY53f/boo.png",BOO
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1 group-title="NEW-MOVIE" tvg-logo="https://i.imgur.com/siuEzEO.png",CELESTIAL CLASSIC MOVIES
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1 group-title="NEW-MOVIE" tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png",MOVIES GROUP
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 group-title="NEW-MOVIE" tvg-logo="https://i.postimg.cc/qBX1YMrs/WOW-TV.png",WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+#EXTINF:-1 group-title="NEW-MOVIE" tvg-logo="https://i.postimg.cc/fRNKJJSL/WOWOW-CINEMA.png",WOWOW CINEMA
+http://203.162.235.41:16916/
+#EXTINF:-1 group-title="NEW-MOVIE" tvg-logo="https://i.imgur.com/pXUO2cD.png",ATV [Nin]
+http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/chunklist_w1201165770.m3u8
+#EXTINF:-1 group-title="NEW-MOVIE" tvg-logo="https://i.postimg.cc/43g1BVLn/oktv.png",OKTV (TES)
+https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
+#EXTINF:-1 group-title="NEW-MOVIE" tvg-logo="https://i.postimg.cc/FHxc0YSy/VISION-PRIME.png",VISION PRIME
+https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
+#EXTINF:-1 group-title="NEW-MOVIE" tvg-logo="http://kamiselaluada.com/img/fox.png",FOX (VN)
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="NEW-MOVIE" tvg-logo="http://kamiselaluada.com/img/foxfamilymovies.png",FOX FAMILY Movies (VN)
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
+EXTINF:-1 group-title="NEW-MOVIE" tvg-logo="https://i.postimg.cc/W4814StH/FLIX.png",&flix HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="NEW-MOVIE" tvg-logo="http://kamiselaluada.com/img/foxfamilymovies.png",FOX FAMILY Movies
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="NEW-PREMIUM" tvg-logo="https://telegra.ph/file/8b270258f61fe4bda1832.png",FOX Action Movies
+http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
+#EXTINF:-1 group-title="NEW-PREMIUM" tvg-logo="https://telegra.ph/file/f4a09bf4f1d490d221850.png",FOX Movies
+http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
+#EXTINF:-1 group-title="NEW-PREMIUM" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png",HBO
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 group-title="NEW-PREMIUM" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png",HBO [Backup]
+http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 group-title="NEW-PREMIUM" tvg-logo="https://telegra.ph/file/130e75bf4a971060e1ad6.png",HBO Hits
+http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
+#EXTINF:-1 group-title="NEW-PREMIUM" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png",HBO Asia
+https://liveorigin01.hbogoasia.com:8443/origin/live/HBO/index.m3u8
+#EXTINF:-1 group-title="NEW-PREMIUM" tvg-logo="https://telegra.ph/file/130e75bf4a971060e1ad6.png",HBO Hits
+https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
+#EXTINF:-1 group-title="NEW-PREMIUM" tvg-logo="https://telegra.ph/file/a33a3bb6e02a1ba7a110c.png",Celestial Movies
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1 group-title="NEW-PREMIUM" tvg-logo="https://telegra.ph/file/748edf4c2c677532e7ed8.png",tvN EN
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+#EXTINF:-1 group-title="NEW-PREMIUM" tvg-logo="https://telegra.ph/file/7061b5391ad43ed025acf.png",Hits Movie CH401
+http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
+#EXTINF:-1 group-title="NEW-PREMIUM" tvg-logo="https://telegra.ph/file/893f87a1b9d521a35221f.png",CINEMAX [Backup]
+https://liveorigin01.hbogoasia.com:8443/origin/live/MAX/index.m3u8
+#EXTINF:-1 group-title="NEW-PREMIUM" tvg-logo="https://telegra.ph/file/893f87a1b9d521a35221f.png",FOX CRIME
+http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
+#EXTINF:-1 group-title="NEW-PREMIUM" tvg-logo="https://telegra.ph/file/893f87a1b9d521a35221f.png",HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
+#EXTINF:-1 group-title="NEW-PREMIUM" tvg-logo="https://telegra.ph/file/893f87a1b9d521a35221f.png",Red by HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/RED/index.m3u8
+#EXTINF:-1 group-title="NEW-MUSIC" tvg-logo="https://i.imgur.com/mmGEM12.png",ALBUK
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
+#EXTINF:-1 group-title="NEW-MUSIC" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmJhcmF6YWhkbXVzaWN0di5iYXJhemFfaWNvbl8xNTgwMzk1Mjc3XzA1Mg/icon.png?w=170&fakeurl=1",Baraza Hits
+https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:-1 group-title="NEW-MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4OPymV242XCHrDqXnqkyDnyTogjiyamAdpeEnq9NrvSozwjg&s",EBC 1 MUSIC
+https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
+#EXTINF:-1 group-title="NEW-MUSIC" tvg-logo="https://i.postimg.cc/3xwLpH34/M2O.png",M2O MUSIC
+https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
+#EXTINF:-1 group-title="NEW-MUSIC",Magic MUSIC
+https://itv.streams.ovh/magictv/magictv/playlist.m3u8
+#EXTINF:-1 group-title="NEW-MUSIC",Mifa MUSIC
+https://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist.m3u8
+#EXTINF:-1 group-title="NEW-MUSIC" tvg-logo="https://i.postimg.cc/dtrBNfTf/Photo-1610035318464.png",MUSIC 24
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
+#EXTINF:-1 group-title="NEW-MUSIC" tvg-logo="https://i.postimg.cc/dtrBNfTf/Photo-1610035318464.png",NG MUSIC
+http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8
+#EXTINF:-1 group-title="NEW-MUSIC",OCKO EXPRES
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_expres.stream.1.smil/chunk_ukeaj5au5_ctvideo_cfm4s_ridp0va0br2500000_cs2488779090_mpd.m3u8
+#EXTINF:-1 group-title="NEW-MUSIC",OCKO GOLD
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/chunk_u5s4j6x2b_ctvideo_cfm4s_ridp0va0br2500000_cs2377075860_mpd.m3u8
+#EXTINF:-1 group-title="NEW-MUSIC",ONE HD
+http://rtmp.one.by:1300
+#EXTINF:-1 group-title="NEW-MUSIC" tvg-logo="https://i.postimg.cc/dtrBNfTf/Photo-1610035318464.png",Play MUSIC
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
+#EXTINF:-1 group-title="NEW-MUSIC" tvg-logo="https://i.postimg.cc/dtrBNfTf/Photo-1610035318464.png",PortalFoxMix
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+#EXTINF:-1 group-title="NEW-MUSIC",RADIO51 TV 2
+http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
+#EXTINF:-1 group-title="NEW-MUSIC",RADIO CONTACT VISION
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
+#EXTINF:-1 group-title="NEW-MUSIC" tvg-logo="https://i.postimg.cc/dtrBNfTf/Photo-1610035318464.png",V2Beats
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 group-title="NEW-MUSIC" tvg-logo="https://i.postimg.cc/dtrBNfTf/Photo-1610035318464.png",Xalastra
+https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
+#EXTINF:-1 group-title="MUSIK ASIK" tvg-logo="https://i.postimg.cc/VLzDtZMC/9XM.png",9XM
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 group-title="MUSIK ASIK" tvg-logo="https://i.postimg.cc/fypc4KYV/CHANNEL-V.png",CHANNEL V Int
+https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd
+#EXTINF:-1 group-title="MUSIK ASIK" tvg-logo="https://i.postimg.cc/9F11YPtN/desi-channel.png",DESI Channel
+https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
+#EXTINF:-1 group-title="MUSIK ASIK" tvg-logo="https://i.imgur.com/PqE3nYg.png",MALEO TV
+https://5d63d49f772ce.streamlock.net/maleo/udp.stream_360p/chunklist_w970298173.m3u8
+#EXTINF:-1 group-title="MUSIK ASIK" tvg-logo="https://i.postimg.cc/MTTfn8YX/MOLATV.png",MOLATV
+http://ventdelnord.tv:8080/mola/directe.m3u8
+#EXTINF:-1 group-title="MUSIK ASIK" tvg-logo="https://i.postimg.cc/8PKgbNxd/MTV-BIGGEST.png",MTV BIGGEST POP
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_375.m3u8
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://i.postimg.cc/0Q5wbRs1/AL-SUNNAH-AL-NABAWIYAH.png",Al Sunnah An Nabawiyyah
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://i.postimg.cc/NM83Ljm2/ASHIIL-TV.png",ASHIIL TV
+http://wowza60.indostreamserver.com:1935/ashiiltv2/android/chunklist_w183011391.m3u8
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://i.postimg.cc/prmmPhyj/i-Am.png",I AM CHANNEL
+http://iamchannel.org:1935/tes/1/chunklist_w517367057.m3u8
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://i.postimg.cc/h42KLq47/MADANI-TV.png",MADANI TV
+https://stream.asianastream.com/madani/ngrp:madanitv_all/playlist.m3u8
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://i.postimg.cc/DwssNPgH/MGI-TV.png",MGI TV
+https://tv.rodja.live/tasik/mgitv/playlist.m3u8
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://i.postimg.cc/SsNXtthD/NABAWI-TV.png",NABAWI TV
+http://stream1.ninmedia.tv:1935/nabawitv/nabawitv_360p/chunklist_w403146672.m3u8
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://i.postimg.cc/7Pp6TDd2/NIAGA-TV.png",NIAGA TV
+http://119.235.249.58:1935/niagatv/live/playlist.m3u8
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://i.postimg.cc/wMMm3447/NU-CHANNEL.png",NU Channel
+http://stream1.ninmedia.tv:1935/nuchannel/udp.stream_360p/chunklist_w2102112964.m3u8
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://i.postimg.cc/X7TC78fY/saling-sapa.png",SalingSapa TV
+https://5d63d49f772ce.streamlock.net/salingsapa/rtmp.stream_360p/chunklist_w1765334579.m3u8
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://i.postimg.cc/MTsjBP6M/SURAU-TV.png",Surau TV
+http://119.235.249.58:1935/surautv/live/chunklist_w1776413384.m3u8
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://i.postimg.cc/fLLLvtcP/logo-tawaftv-big.png",Tawaf TV
+http://stream1.ninmedia.tv:1935/tawaftv/rtmp.stream_360p/chunklist_w727091128.m3u8
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://i.postimg.cc/K88jLPb3/wesal-tv.png",Wesal TV
+http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://i.postimg.cc/xqr1Y6wr/logo-uchannel-big1.png",U CHANNEL
+http://119.235.249.58:1935/uchannel/live/chunklist.m3u8
+#EXTINF:-1 group-title="NEW-KIDS" tvg-logo="https://i.postimg.cc/GptkPXVZ/bisnet-kids-hd.png",Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+#EXTINF:-1 group-title="NEW-KIDS" tvg-logo="https://i.postimg.cc/dQ902pT3/EBS-KIDS.png",Ebs Kids
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/chunklist_w2046056257.m3u8
+#EXTINF:-1 group-title="NEW-KIDS" tvg-logo="https://i.postimg.cc/BQSmG9Zd/GEM-KIDS.png",GEM KIDS
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
+#EXTINF:-1 group-title="NEW-KIDS" tvg-logo="https://i.postimg.cc/8cHwrw4K/GEM-JUNIOR.png",GEM Junior
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist_640x360_800k.m3u8
+#EXTINF:-1 group-title="NEW-KIDS" tvg-logo="https://i.postimg.cc/x1LLFM5r/LOCOMOTION.png",LOCOMOTION
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 group-title="NEW-KIDS" tvg-logo="https://i.postimg.cc/k5DFZhKZ/SPACETOON.png",SPACETOON ID [Nin]
+http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist_w1596438578.m3u8
+#EXTINF:-1 group-title="NEW-KIDS" tvg-logo="https://i.postimg.cc/NFFNxfby/SPACETOON-AR.png",SPACETOON [AR]
+http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8?Live-TV�
+#EXTINF:-1 group-title="NEW-KIDS" tvg-logo="https://i.postimg.cc/sf8XMVMy/TVO-KIDS.png",TVO Kids
+https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+#EXTINF:-1 group-title="NEW-NEWS" tvg-logo="https://i.postimg.cc/4x45s27M/logo-arirang-small.png",ARIRANG
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEW-NEWS" tvg-logo="https://i.postimg.cc/zfVwsZmD/logo-beritasatu-big1.png",BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+#EXTINF:-1 group-title="NEW-NEWS" tvg-logo="https://i.postimg.cc/Y0w1Lvvj/logo-cnnindonesia-big1.png",CNN INDONESIA
+http://live.cnnindonesia.com:80/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+#EXTINF:-1 group-title="NEW-NEWS" tvg-logo="https://i.postimg.cc/7Yw3xTvW/logo-dwtv-big.png",DW TV
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+#EXTINF:-1 group-title="NEW-NEWS" tvg-logo="https://i.postimg.cc/8zpwVzZp/jakarta-globe.png",Jakarta Globe News Channel TV
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+#EXTINF:-1 group-title="NEW-NEWS",Voa Indonesia
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:-1 group-title="NEW-MOVIE-2",NEW Movies-2
+https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="NEW-MOVIE-2",NEW Movies-3
+https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="NEW-MOVIE-2",NEW Movies-4
+https://rakuten-actionmovies-6-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="NEW-MOVIE-2",NEW Movies-5
+https://rakuten-actionmovies-7-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="NEW-MOVIE-2",NEW Movies-6
+https://rakuten-actionmovies-5-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="NEW-MOVIE-2",NEW Movies-7
+https://rakuten-actionmovies-4-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="NEW-MOVIE-2",NEW Movies-8
+https://rakuten-actionmovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="NEW-MOVIE-2",Filmzie
+https://filmzie-filmzie-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="NEW-MOVIE-2",Film Hub
+http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
+#EXTINF:-1 group-title="NEW-MOVIE-2",Action-1
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="NEW-MOVIE-2",Action-2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbfeb961b411c00090b52b3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="NEW-MOVIE-2",Action-3
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="NEW-MOVIE-2",Movie Mix-1
+https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
+#EXTINF:-1 group-title="NEW-MOVIE-2",Movie Mix-2
+https://moviemix.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="NEW-MOVIE-2",Movies Central
+https://alchimie-movies-central-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="NEW-MOVIE-2",Mutant X 1
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8dc008d4422e00072d2405/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="NEW-MOVIE-2",Mutante X-2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acc91cc9e1b000711ff21/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1 group-title="NEW-MOVIE-2",Cine Sucessos
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="NEW-MOVIE-2",Cine Acci?n-1
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 group-title="NEW-MOVIE-2",Cine Acci?n-2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="NEW-MOVIE-2",Cine Acci?n-3
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1 group-title="NEW-MOVIE-2",Cult Films-1
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c31f2f21b553c1f673fb0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="NEW-MOVIE-2",Cult Films-2
+https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
+#EXTINF:-1 group-title="NEW-MOVIE-2",Filmstream-1
+https://spi-filmstream-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="NEW-MOVIE-2",Filmstream-2
+https://spi-filmstream-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="NEW-MOVIE-2",Movies Central
+https://alchimie-movies-central-2-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="NEW-MOVIE-2",Free Movies
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
+#EXTINF:-1 group-title="NEW-MOVIE-2",Movies
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
+#EXTINF:-1 group-title="NEW-MOVIE-2",Movies Full
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="NEW-MALAYSIA" tvg-logo="http://kamiselaluada.com/img/rtbsuk.png",RTB SUKMAINDERA
+https://rtb-channel.glue.live/smil:rtb1/chunklist_w1343761972_b2736000_sleng.m3u8
+#EXTINF:-1 group-title="NEW-MALAYSIA" tvg-logo="http://kamiselaluada.com/img/awani.png",Astro Awani
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+#EXTINF:-1 group-title="NEW-MALAYSIA" tvg-logo="http://kamiselaluada.com/img/hello.png",Hello
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
+#EXTINF:-1 group-title="NEW-MALAYSIA" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",Astro Ria CH104
+http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
+#EXTINF:-1 group-title="NEW-MALAYSIA" tvg-logo="https://telegra.ph/file/f5b251914a160518dd5f0.jpg",Astro Prima CH105
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+#EXTINF:-1 group-title="NEW-MALAYSIA" tvg-logo="https://telegra.ph/file/1f0a0fe99a2d38e5086aa.jpg",Astro Oasis CH106
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+#EXTINF:-1 group-title="NEW-MALAYSIA" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png",Astro Warna CH107
+http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
+#EXTINF:-1 group-title="NEW-MALAYSIA" tvg-logo="https://telegra.ph/file/889b8e80857bf36e0ab10.jpg",Astro Citra CH108
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+#EXTINF:-1 group-title="NEW-MALAYSIA" tvg-logo="https://telegra.ph/file/dc4eabf8a8726a1f657da.png",Naura HD CH109
+http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+#EXTINF:-1 group-title="NEW-MALAYSIA" tvg-logo="https://telegra.ph/file/b910978ea89d38d0b179e.png",Astro Rania CH112
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6729
+#EXTINF:-1 group-title="NEW-MALAYSIA" tvg-logo="https://telegra.ph/file/30aae69adef041933dbee.png",Astro Xiao Tai Yang HD 1[Backup]
+http://185.180.221.194:8278/streams/d/Xiaotaiyang/playlist.m3u8
+#EXTINF:-1 group-title="NEW-MALAYSIA" tvg-logo="https://telegra.ph/file/baa5a46acbd1f2a395ce4.png",Astro AEC CH306
+http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
+#EXTINF:-1 group-title="NEW-MALAYSIA" tvg-logo="https://telegra.ph/file/fbbe10b7738a25d749976.png",Astro Shuang Xing ??? CH307
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF:-1 group-title="NEW-MALAYSIA" tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png",Astro AOD CH311
+http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
+#EXTINF:-1 group-title="NEW-MALAYSIA" tvg-logo="https://telegra.ph/file/d42f0069da7ecd9ec0d5f.jpg",Astro Awani CH501
+http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+#EXTINF:-1 group-title="NEW-MALAYSIA" tvg-logo="https://telegra.ph/file/fcc1eeba026c62641871d.png",BERNAMA CH502
+http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+#EXTINF:-1 group-title="NEW-MALAYSIA" tvg-logo="https://telegra.ph/file/413372fcca791b2904f78.jpg",Astro Ceria CH611
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+
+
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/M8YV19x.jpg",1.Vanquish (2021-Action)
+https://cdn3ii.diebutx.com/own2hls/2020/7f50438d6f69f10b7a8dae9fa285befb/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/PwHC0Ta.jpg",2.Mortal Kombat (2021-Action)
+https://cdn2ii.diebutx.com/own2hls/2020/361d659195519a8ba991b1bb49843180/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/oAdzX3L.jpg",3.Nobody (2021-Action)
+https://cdn3ii.diebutx.com/own2hls/2020/6e13167f4c5fb6e47d9dd7380b3776b5/360p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/Di7xFYF.jpg",4.The Marksman (2021-Action)
+https://cdn2ii.diebutx.com/own2hls/2020/2bcc3d4ba624b78ee5efbdf192445b35/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/yg8mnEe.jpg",5.Lazarus (2021-Action)
+https://cdn2ii.diebutx.com/own2hls/2020/09c083af59d53871ecc6daa8c015a641/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/erljNPU.jpg",6.A Writer's Odyssey (2021-Action)
+https://cdn2ii.diebutx.com/own2hls/2020/996ee5e9d1e200255fb5565ba5f1b1b5/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/yNEYhbK.jpg",7.Thunder Force (2021-Action)
+https://cdn3ii.diebutx.com/own2hls/2020/769174d6904c3acda2034ecedd2179dd/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/RTCAqX2.jpg",8.Assault on VA-33 (2021-Action)
+https://cdn2ii.diebutx.com/own2hls/2020/aacc3c9262fbb8da9ff992c66a73f062/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/qqIoyNK.jpg",9.The Yin Yang Master (2021-Action)
+https://cdn3ii.diebutx.com/own2hls/2020/60a4e83ee154b971dd8daf9ec9146b66/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/Ze5fwGu.jpg",10.Wu Song?s Bloody Battle With Lion House (2021-Action)
+https://cdn2ii.diebutx.com/own2hls/2020/b9b11c30beb13b11c1d88de8a0a10b62/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/HRcFmZu.jpg",11.Zack Snyder's Justice League (2021-Action)
+https://cdn2ii.diebutx.com/own2hls/2020/346d158048eb93d273de942c5da2f090/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/2Ej2EOP.jpg",12.ARMAGEDDON TALES (2021-Action)
+https://cdn3ii.diebutx.com/own2hls/2020/3ca9a047ea086321136a11b7181cfc2a/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/Ae2MmT7.jpg",13.SAS: Red Notice (2021-Action)
+https://cdn2ii.diebutx.com/own2hls/2020/d526cc20885c06e026cb23304abc5bd7/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/OYFhiCy.jpg",14.Twist (2021-Action)
+https://cdn3ii.diebutx.com/own2hls/2020/2664a17549df570378bdffd02aa1702c/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/aaSQ6kx.jpg",15.Space Sweepers (2021-Action)
+https://cdn3ii.diebutx.com/own2hls/2020/b1add098cb4ac360e177435105e4ef75/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/ZXUUaVs.jpg",16.Master (2021-Action)
+https://cdn3ii.diebutx.com/own2hls/2020/005bddd2e2c6a83d922ac5e942fb5473/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/CHdbLeT.jpg",17.Raya and the Last Dragon (2021-Action)
+https://cdn2ii.diebutx.com/own2hls/2020/23a92a8ccbb8f8362fb6f336ed364888/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/Iwers2B.jpg",18.Sentinelle (2021-Action)
+https://cdn2ii.diebutx.com/own2hls/2020/653c870a59331c0e1abbb05b48869eea/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/COgtzQo.jpg",19.Texas Red (2021-Action)
+https://cdn2ii.diebutx.com/own2hls/2020/a22b6b9b5b6dd732bcb2653c706c711c/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/KOVVg3r.jpg",20.Just Noise (2021-Action)
+https://cdn3ii.diebutx.com/own2hls/2020/b21d35731cf5adc8fb7baa80c1f1f967/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/M2Dczt1.jpg",21.Insight (2021-Action)
+https://cdn3ii.diebutx.com/own2hls/2020/55ce55eabcd4cb440dc36d2f7eb1f0a2/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/JogJ4bi.jpg",22.The Redneg (2021-Action)
+https://cdn2ii.diebutx.com/own2hls/2020/ee84350204b03a8bbf33e09233b42a05/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/awzk1vK.jpg",23.Cosmic Sin (2021-Action)
+https://cdn3ii.diebutx.com/own2hls/2020/ccfc9657a73148af93b0de19f35c11a1/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/vF8sKh3.jpg",24.Death Chasing (2021-Action)
+https://cdn2ii.diebutx.com/own2hls/2020/582553f9a63786425b9073016fd156c9/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/KBCgxrs.jpg",25.New Justice Bao: The Nanxia Mystery Case (2021-Action)
+https://cdn2ii.diebutx.com/own2hls/2020/7aab4e0be500a3460e526b8a0b43d3f0/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/6B33yVN.jpg",26.Counterattack (2021-Action)
+https://cdn3ii.diebutx.com/own2hls/2020/c1a7b7f8ea60843fea649a2d0bc119ab/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/1dz71ZG.jpg",27.Super Pacifier (2021-Action)
+https://cdn2ii.diebutx.com/own2hls/2020/d4e1e65abaaf2f30afd336f10d4f2523/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/O7XsoCQ.jpg",28.Forbidden Martial Arts: The Nine Mysterious Candle Dragons (2021-Action)
+https://cdn2ii.diebutx.com/own2hls/2020/84e8de8d981b66130fd217bdcb1ab997/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/ETSSwnM.jpg",29.400 Bullets (2021-Action)
+https://cdn3ii.diebutx.com/own2hls/2020/bb1a2651013184c22adc299ebc25ef6b/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/hsrSdVk.jpg",30.Narco Sub (2021-Action)
+https://cdn2ii.diebutx.com/own2hls/2020/24461b81069bb0d529fef629122cbfeb/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/qGTnAPJ.jpg",31.Green Dragon Crescent Blade (2021-Action)
+https://cdn2ii.diebutx.com/own2hls/2020/b123678e3928a46304ce8d49e5956851/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/adELfuM.jpg",32.En Passant P?cho: Les Carottes Sont Cuites (2021-Action)
+https://cdn3ii.diebutx.com/own2hls/2020/07986d6aaa9632efaaa549f693ba2dfd/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/Lf1Ke9u.jpg",33.Cowgirls vs. Pterodactyls (2021-Action)
+https://cdn2ii.diebutx.com/own2hls/2020/f16a44f49688336fd53be4d056a6c802/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/SqUiiQl.jpg",34.Heroes Return (2021-Action)
+https://cdn3ii.diebutx.com/own2hls/2020/12c134f002d2bc4948795126b1c4e9b4/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/R8w5XtY.jpg",35.Teddy (2021-Action)
+https://cdn3ii.diebutx.com/own2hls/2020/401410ed0d350461833d4b8a058212c9/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/Sp2hizY.jpg",36.Willy?s Wonderland (2021-Action)
+https://cdn2ii.diebutx.com/own2hls/2020/0c912b6e5536d5ba09a1d4871b999ae7/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/oqslPnj.jpg",37.Triassic Hunt (2021-Action)
+https://cdn3ii.diebutx.com/own2hls/2020/8c38d7d33f136369e5c0eca7804a1f0c/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/Nz5zOCR.jpg",38.Cabras da Peste (2021-Action)
+https://cdn2ii.diebutx.com/own2hls/2020/8602e34c92983319cd009c653298f216/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/X1PAH50.jpg",39.The Pond (2021-Action)
+https://cdn3ii.diebutx.com/own2hls/2020/54e51c6ce7265017fbb12bccb7a41554/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/REgtxz5.jpg",40.Rise Up (2021-Action)
+https://cdn2ii.diebutx.com/own2hls/2020/e2caf136a920c733e4b4351e6fa211de/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/bHqsZEL.jpg",41.Psycho Goreman (2021-Action)
+https://cdn2ii.diebutx.com/own2hls/2020/b1f52e5435ab121602765b3156dde817/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/zE4KbIK.jpg",42.The White Tiger (2021-Action)
+https://cdn3ii.diebutx.com/own2hls/2020/5b80bd6b1e549a7baebe25b2de0a579a/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/Vv6RFBH.jpg",43.No Man?s Land (2021-Action)
+https://cdn2ii.diebutx.com/own2hls/2020/247d09ccfc4386a13c8dafceff02f7a2/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/BwIET5I.jpg",44.Batman: Soul of the Dragon (2021-Action)
+https://cdn3ii.diebutx.com/own2hls/2020/1694a92b5d221c8e456f1e2022cdee98/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/aJMEqWa.jpg",45.Outside the Wire (2021-Action)
+https://cdn2ii.diebutx.com/own2hls/2020/2c880f49e8ac4efaa4bd596bb32d6f6c/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/I1nLa0Y.jpg",46.Goodbye Butterfly (2021-Action)
+https://cdn3ii.diebutx.com/own2hls/2020/8dab3c63a76016415e475ed180c00a83/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/iacoOhI.jpg",47.Dead in the Water (2021-Action)
+https://cdn3ii.diebutx.com/own2hls/2020/c60333d65ea8d34b5ff0533c1a83961d/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/Vro3T6S.jpg",48.Butchers (2021-Action)
+https://cdn3ii.diebutx.com/own2hls/2020/01e0a35bd2450f3152d8bd0f86b86d85/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/nPdbzPx.jpg",49.Born a Champion (2021-Action)
+https://cdn2ii.diebutx.com/own2hls/2020/7e70c3f1bd2631fc061e6346586778e7/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/gglg3ca.jpg",50.Battle in Space: The Armada Attacks (2021-Action)
+https://cdn3ii.diebutx.com/own2hls/2020/2bf8a120078b6f73c84319135c01fa93/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/R83Huri.jpg",51.Attack of the Giant Blurry Finger (2021-Action)
+https://cdn2ii.diebutx.com/own2hls/2020/5b89d095da9ff29a1b29e9630afa67f6/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/5oLIVjH.jpg",52.Hunted (2021-Action)
+https://cdn3ii.diebutx.com/own2hls/2020/163ab27b9848d1ae9ee7b6d8bccf07ba/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/enBM87A.jpg",53.Corruption & Conspiracy (2021-Action)
+https://cdn2ii.diebutx.com/own2hls/2020/27776ae4003143ecfec5e47974f0bf3d/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/bSGWv75.jpg",54.Norm of the North: Family Vacation (2021-Action)
+https://cdn3ii.diebutx.com/own2hls/2020/b726c3c74fddd43b3d217ed17fe72f4f/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/EM4lVwJ.jpg",55.American Dream (2021-Action)
+https://cdn3ii.diebutx.com/own2hls/2020/2669184a15ad557b92c61a36df56ed9f/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/XzulgW9.jpg",56.Sorry I Killed You (2021-Action)
+https://cdn2ii.diebutx.com/own2hls/2020/c15cf4145354335b44155888e9295dca/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/2VxhWKp.jpg",57.The Minimalists: Less Is Now (2021-Action)
+https://cdn3ii.diebutx.com/own2hls/2020/9b45a4d1f070048b8158394ce13e3dca/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/GX6izjY.jpg",58.Agent Revelation (2021-Action)
+https://cdn2ii.diebutx.com/own2hls/2020/d0adfce9414c05dc3f5fde984012a1c7/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/IdPXdME.jpg",59.Finding 'Ohana (2021-Action)
+https://cdn3ii.diebutx.com/own2hls/2020/d169147a60484e39fedcb7f3481f6f0e/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/NzLx4BH.jpg",60.Caged (2021-Action)
+https://cdn2ii.diebutx.com/own2hls/2020/d2d320a35c8bf9376d8f5d1f84f2af76/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/msA00yq.jpg",61.Redemption Day (2021-Action)
+https://cdn3ii.diebutx.com/own2hls/2020/d3ea522820faa6d92f51ac15d0bf0a3c/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/PKH2ImW.jpg",62.Locked Down (2021-Action)
+https://cdn2ii.diebutx.com/own2hls/2020/cbc4a7fc4b8e984e1c14ec595efb1a07/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/9uQ32in.jpg",63.Our Friend (2021-Action)
+https://cdn2ii.diebutx.com/own2hls/2020/510fcb928191ab4a616b4d690c718371/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/mMDynjr.jpg",64.Penguin Bloom (2021-Action)
+https://cdn3ii.diebutx.com/own2hls/2020/ce86aaaef93576f14395690ca2c24944/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/xJpUjSB.jpg",65.The Dig (2021-Action)
+https://cdn2ii.diebutx.com/own2hls/2020/7a152b927f651e7fa08d599cf5a2da17/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/dQuEIuU.jpg",66.The Little Things (2021-Action)
+https://cdn2ii.diebutx.com/own2hls/2020/0fb6096fc12a6353f91e24444b7425ee/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/HMeXSFV.jpg",67.Palmer (2021-Action)
+https://cdn3ii.diebutx.com/own2hls/2020/3670dbd46fdcfe5fb815ef5532350036/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/jY7B4dr.jpg",68.Heymaker (2021-Action)
+https://cdn2ii.diebutx.com/own2hls/2020/08a48027db41bb31ba254763b421a55f/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/shlkiWk.jpg",69.Hellkat (2021-Action)
+https://cdn3ii.diebutx.com/own2hls/2020/9b2b1c8362e55234cff9ca547951d6cb/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/xiopWyy.jpg",70.The Serpent (2021-Action)
+https://cdn2ii.diebutx.com/own2hls/2020/fac76f30fad708d91ba57fef97e2adbb/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/1ID0xxU.jpg",71.Below Zero (2021-Action)
+https://cdn2ii.diebutx.com/own2hls/2020/7184af7f929ceff3cf7ae4a3871eef51/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/s3ipFnH.jpg",72.Kill Cavalry (2021-Action)
+https://cdn3ii.diebutx.com/own2hls/2020/539f72ad9e0453c13c7d5c1137caaafb/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/zLUYrZV.jpg",73.The Power (2021-Action)
+https://cdn3ii.diebutx.com/own2hls/2020/c6863cb6dd663ac179aef272b60fee7b/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/NCaRFXr.jpg",74.Aida? (2021-Action)
+https://cdn2ii.diebutx.com/own2hls/2020/3946ad19757a6b2b781a2ec8198a6482/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/P9rxzAg.jpg",75.Lost & Found (2021-Action)
+https://cdn2ii.diebutx.com/own2hls/2020/31fb99b7379b012ecad026edf49480b6/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/GgLcJm2.jpg",76.Flinch (2021-Crime)
+https://cdn2ii.diebutx.com/own2hls/2020/a92e4f6e1d2eb587a5c52a882b38274a/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/Kbgg0zY.jpg",77.Crisis (2021-Crime)
+https://cdn3ii.diebutx.com/own2hls/2020/e396a48d24cbda9d7ebda7d9ae76d0ce/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/caryYdb.jpg",78.The College Admissions Scandal (2021-Crime)
+https://cdn3ii.diebutx.com/own2hls/2020/ed01b097fb58b0e5f7bd3be172a88fe2/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/EF6oWMs.jpg",79.Road to Damascus (2021-Crime)
+https://cdn3ii.diebutx.com/own2hls/2020/7589b0dc36d3a71a45f8e2f734b305ff/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/LzzkFTA.jpg",80.The Wife (2021-Crime)
+https://cdn3ii.diebutx.com/own2hls/2020/c0893cdc465d6f9891ae981e356bc59b/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/gNnEYKd.jpg",81.One and the Same (2021-Crime)
+https://cdn2ii.diebutx.com/own2hls/2020/dec3d11a485cb4e3b2d32a8d85b7056c/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/2Z1dujO.jpg",82.Burn It All (2021-Crime)
+https://cdn2ii.diebutx.com/own2hls/2020/9d7ff466bee422b94c1d0b7d4daf152a/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/JSUWS4k.jpg",83.Girl in the Basement (2021-Crime)
+https://cdn3ii.diebutx.com/own2hls/2020/8a3b2b70fdb0b47e0bce326d95e0e605/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/EXRBtBn.jpg",84.The Dead of Night (2021-Crime)
+https://cdn3ii.diebutx.com/own2hls/2020/132ffb3304451d5f948002ecba8c9b62/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/XSkz2VG.jpg",85.Cherry (2021-Crime)
+https://cdn3ii.diebutx.com/own2hls/2020/5818591fff4b0d06469111a2daff8a5e/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/oCBCMMT.jpg",86.The Girl on the Train (2021-Crime)
+https://cdn3ii.diebutx.com/own2hls/2020/ea5a8116dfa1df8d71575260459d4aa2/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/lMF54n5.jpg",87.Body Brokers (2021-Crime)
+https://cdn2ii.diebutx.com/own2hls/2020/2e3c374ff6e274c2ffd5954e7684dc89/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/u9ogvWL.jpg",88.Silk Road (2021-Crime)
+https://cdn3ii.diebutx.com/own2hls/2020/7b666d2d6de4b9e2a6c3b712c3944f56/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/ySBHy4O.jpg",89.The Rodeo Thief (2021-Crime)
+https://cdn2ii.diebutx.com/own2hls/2020/658c38672faf9c45bb2ccf9cac1e64e1/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/z2dHML2.jpg",90.Alice Fades Away (2021-Crime)
+https://cdn3ii.diebutx.com/own2hls/2020/cfc8d36c9e6095bbb5e21b1b9dc0c6e4/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/t0rVDvj.jpg",91.Paradise Cove (2021-Crime)
+https://cdn3ii.diebutx.com/own2hls/2020/34f988677a4e4a1e48640c9931868f03/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/O6WJmof.jpg",92.Faceless (2021-Crime)
+https://cdn3ii.diebutx.com/own2hls/2020/3cd77976b7511174e3740cad01c58796/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/FRHywVx.jpg",93.I Portrait (2021-Crime)
+https://cdn2ii.diebutx.com/own2hls/2020/3b1be98c530c5040950e21f479d95599/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/RWVyApn.jpg",94.Exodus (2021-Crime)
+https://cdn2ii.diebutx.com/own2hls/2020/3d0b7c4ac18401cbaecef6c8521acae9/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/k3BuTst.jpg",95.Doors (2021-Crime)
+https://cdn3ii.diebutx.com/own2hls/2020/2afc40deb56b17c21874022bc419fa46/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/fuV6i7m.jpg",96.Expiry (2021-Crime)
+https://cdn3ii.diebutx.com/own2hls/2020/3f7bb4f0aadea5388c06e8fbdc171b21/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/O47QFf9.jpg",97.The Journey Home (2021-Crime)
+https://cdn2ii.diebutx.com/own2hls/2020/3043155549bcb28a7b2dbdc28f757c82/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/FVSU4aF.jpg",98.Norman (2021-Crime)
+https://cdn2ii.diebutx.com/own2hls/2020/4b7ea26e36b17f69c4cb9c2c4dbdef89/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/RrEMAIg.jpg",99.Flora & Ulysses (2021-Crime)
+https://cdn2ii.diebutx.com/own2hls/2020/b99386358c1f3e0330682034d8c6b88f/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/kfJGibR.jpg",100.Judas and the Black Messiah (2021-Crime)
+https://cdn3ii.diebutx.com/own2hls/2020/f7e247296deba30029c2fcc3323389f3/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/RcX7KNV.jpg",101.Son of the South (2021-Crime)
+https://cdn2ii.diebutx.com/own2hls/2020/4b90f73e89298816d8751287caf48f10/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/0O8Y0HY.jpg",102.Phobias (2021-Horror)
+https://cdn3ii.diebutx.com/own2hls/2020/8eff084ddb2ae8f6c2056ceb4e3fe594/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/DdM3p9d.jpg",103.60 Seconds to Di3 (2021-Horror)
+https://cdn3ii.diebutx.com/own2hls/2020/5038692d826f121309e29ad49c107ae8/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/i460iQ6.jpg",104.Dreamcatcher (2021-Horror)
+https://cdn3ii.diebutx.com/own2hls/2020/2ef94737b5792d42c458235771e4a88f/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/ZoIZadM.jpg",105.Stay Out of the F**king Attic (2021-Horror)
+https://cdn3ii.diebutx.com/own2hls/2020/1f47020e198f853bfc111e2da3aa5e91/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/bqc73oC.jpg",106.Come True (2021-Horror)
+https://cdn3ii.diebutx.com/own2hls/2020/86c6f1faf0d246563bedb2f53223ca1f/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/bJCgGQS.jpg",107.The Seventh Day (2021-Horror)
+https://cdn2ii.diebutx.com/own2hls/2020/ce5f0c2ae334178277dec43638706378/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/1bJUips.jpg",108.The Toll (2021-Horror)
+https://cdn2ii.diebutx.com/own2hls/2020/7d78072209cbbf5b11783145e5ba86cb/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/4R0zXzr.jpg",109.Blood Brothers (2021-Horror)
+https://cdn3ii.diebutx.com/own2hls/2020/0e7bc1b5824943fc967747d65baed688/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/N3KFURc.jpg",110.Sacrifice (2021-Horror)
+https://cdn2ii.diebutx.com/own2hls/2020/e4744c1939ddbae9b3a23c3c4a4098e8/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/yCJJVMN.jpg",111.Amber's Descent (2021-Horror)
+https://cdn2ii.diebutx.com/own2hls/2020/089fdf8db58c2401d931c5850fbf8276/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/SEdPzoV.jpg",112.American Liar (2021-Horror)
+https://cdn3ii.diebutx.com/own2hls/2020/167f6a2fe5cea631ff46c0deb9704ad5/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/Wzx2o8C.jpg",113.Honeydew (2021-Horror)
+https://cdn2ii.diebutx.com/own2hls/2020/88e23e661ffcc09379e479f15d4fe49a/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/40hI6nn.jpg",114.Held (2021-Horror)
+https://cdn3ii.diebutx.com/own2hls/2020/3524d392bd8a2d5d8e6a5ae401c03d6b/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/nFuZKu2.jpg",115.The Oak Room (2021-Horror)
+https://cdn2ii.diebutx.com/own2hls/2020/71f856f0db9aa8d8f0f819ed1bbe955e/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/FlWOhcK.jpg",116.Dawn of the Beast (2021-Horror)
+https://cdn3ii.diebutx.com/own2hls/2020/dbd2e455c06d645639621c3188255832/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/a06QZeO.jpg",117.Shook (2021-Horror)
+https://cdn3ii.diebutx.com/own2hls/2020/aed51414b1d9787359892c18c64fef61/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/UfPkkBT.jpg",118.Wrong Turn (2021-Horror)
+https://cdn3ii.diebutx.com/own2hls/2020/f175bb157bed3140504f9422f14d06c7/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/f8pJ8St.jpg",119.Sator (2021-Horror)
+https://cdn3ii.diebutx.com/own2hls/2020/c49070879371d648e2541f76acf1fa51/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/Viacmb7.jpg",120.Know Fear (2021-Horror)
+https://cdn2ii.diebutx.com/own2hls/2020/301eb8fa05563afcfa4aa03037177c10/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/7ayxLsA.jpg",121.The Canyonlands (2021-Horror)
+https://cdn3ii.diebutx.com/own2hls/2020/93c0518243c11ccd997d582ff44ea700/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/rgei6nG.jpg",122.The Devil Below (2021-Horror)
+https://cdn2ii.diebutx.com/own2hls/2020/4bea35095a9f6137037219cc78359301/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/sVLM42h.jpg",123.The Red Nightmare (2021-Horror)
+https://cdn3ii.diebutx.com/own2hls/2020/b1115353573bdc23a489a1c6653be9d4/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/GUV3Peg.jpg",124.My True Fairytale (2021-Drama)
+https://cdn2ii.diebutx.com/own2hls/2020/6c67e8f8d3ce142424c126fbab8bfa36/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/y5eWIJO.jpg",125.The World to Come (2021-Drama)
+https://cdn2ii.diebutx.com/own2hls/2020/776916aa1572dc2cb0bb7b51c63efe6f/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/mQ2nZF9.jpg",126.Trust(2021-Drama)
+https://cdn3ii.diebutx.com/own2hls/2020/c7f6fcbf0961a1ad754bd1a4d45e2584/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/28OlQX3.jpg",127.Paper Lives (2021-Drama)
+https://cdn2ii.diebutx.com/own2hls/2020/974a022dfb8011dba60ee039120f57c4/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/pjoVm4z.jpg",128.Wildcat (2021-Drama)
+https://cdn3ii.diebutx.com/own2hls/2020/2676bc525bdd072c5ad6800571d35e9f/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/sFfVpwp.jpg",129.The Arbors (2021-Drama)
+https://cdn3ii.diebutx.com/own2hls/2020/41f907567a35e8da06f821d48407336a/360p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/9rhsi8D.jpg",130.Malcolm & Marie (2021-Drama)
+https://cdn2ii.diebutx.com/own2hls/2020/136fbe7304c0f285d9f0c1ffb61f7288/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/xDF8uzB.jpg",131.Payback (2021-Drama)
+https://cdn3ii.diebutx.com/own2hls/2020/8a687087286b2a6438af5f5763b5f2e9/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/CmiDoct.jpg",132.L'ultimo paradiso (2021-Drama)
+https://cdn2ii.diebutx.com/own2hls/2020/9c238dab3ea73d84159dd139f08902f0/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/U9Q25Wx.jpg",133.Fear of Rain (2021-Drama)
+https://cdn2ii.diebutx.com/own2hls/2020/173a071836837c214b0c68ea15223537/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/YLBWqag.jpg",134.Bliss (2021-Drama)
+https://cdn3ii.diebutx.com/own2hls/2020/10555182f5ce9ad5dd2f2219972151d9/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/sHXS7FU.jpg",135.Red Dot (2021-Drama)
+https://cdn3ii.diebutx.com/own2hls/2020/ce5a6a0bd2749698f7d023f2648afae1/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/oT4U0fm.jpg",136.Little Fish (2021-Drama)
+https://cdn2ii.diebutx.com/own2hls/2020/c77550cc34a64283c22553496a384ddf/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/wWjpbnk.jpg",137.Drishyam 2 (2021-Drama)
+https://cdn3ii.diebutx.com/own2hls/2020/c7ba58ccbaf864a200536abd8396dfdb/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/OTCLgS9.jpg",138.Dream About Face-Change Comes True (2021-Drama)
+https://cdn3ii.diebutx.com/own2hls/2020/4f3b36b967a44e7db4c0ec8760a1e598/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/RULJ0Up.jpg",139.HILO 2 (2021-Drama)
+https://cdn3ii.diebutx.com/own2hls/2020/87002b78d6977e7cede234e1c442bca9/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/K0mQyoL.jpg",140.Land (2021-Drama)
+https://cdn3ii.diebutx.com/own2hls/2020/db3b50eea11629b38a726701757f12a1/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/OS9ro47.jpg",141.The Mauritanian (2021-Drama)
+https://cdn3ii.diebutx.com/own2hls/2020/d216527646bd705d1956dd2fe2b502f2/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/FejCukJ.jpg",142.How to Stop a Recurring Dream (2021-Drama)
+https://cdn2ii.diebutx.com/own2hls/2020/dd684d23949727868a7d1be120b4e116/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/T61Jsfg.jpg",143.The Soul (2021-Drama)
+https://cdn2ii.diebutx.com/own2hls/2020/aaab4072eed83b9fbe18ca83e9f2447e/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/QH36tdk.jpg",144.The Winter Lake (2021-Drama)
+https://cdn2ii.diebutx.com/own2hls/2020/b5873e9dbe4243abb12c4c545b77a472/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/2Yok147.jpg",145.Being Dead (2021-Drama)
+https://cdn2ii.diebutx.com/own2hls/2020/6566fe01430080da3cc3fd20f4e1a7cd/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/1EoVz9n.jpg",146.Coming 2 America (2021-Comedy)
+https://cdn2ii.diebutx.com/own2hls/2020/7ff682ddde3d6cee268fa644f24fb60f/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/kYkh4I4.jpg",147.Moxie (2021-Comedy)
+https://cdn3ii.diebutx.com/own2hls/2020/9d065092bc6f35eb6108c49c6c2f1606/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/7j4BBuJ.jpg",148.Happily (2021-Comedy)
+https://cdn2ii.diebutx.com/own2hls/2020/a8245d9af74140add28955726247a3a5/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/G3joR6o.jpg",149.Yes Day (2021-Comedy)
+https://cdn2ii.diebutx.com/own2hls/2020/a51a6d26ec4fcb88526afcb64c94b69e/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/rX2nnBi.jpg",150.New Year Blues (2021-Comedy)
+https://cdn2ii.diebutx.com/own2hls/2020/7b043632e78a1ef2410de7a9ee46f4cd/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/rG9hTNW.jpg",151.Lena and Snowball (2021-Comedy)
+https://cdn2ii.diebutx.com/own2hls/2020/7f78e0eaa2063a4a5578f2f45f3d5abc/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/7xv68sa.jpg",152.The Funeral Home (2021-Comedy)
+https://cdn2ii.diebutx.com/own2hls/2020/d8aed09a3dbcd45c02bc7c02c0ebabbe/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/WMvQ492.jpg",153.Squared Love (2021-Comedy)
+https://cdn3ii.diebutx.com/own2hls/2020/4657e7b8e5dd26c505e3099345d4f7cd/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/yQEaZWz.jpg",154.To All the Boys: Always and Forever (2021-Comedy)
+https://cdn2ii.diebutx.com/own2hls/2020/1e6075400b7da5fba809ffae4a667ff5/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/ukIqmKm.jpg",155.Barb and Star Go to Vista Del Mar (2021-Comedy)
+https://cdn3ii.diebutx.com/own2hls/2020/5d20ce252956a2a808bd83e149fc08e7/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/r4UUi1u.jpg",156.Paranormal Prison (2021-Comedy)
+https://cdn3ii.diebutx.com/own2hls/2020/30a1e5249c4ae9ba75844008dfc7fca5/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/C5s6JgP.jpg",157.Proud of Love (2021-Comedy)
+https://cdn3ii.diebutx.com/own2hls/2020/b647f708b11a7ac373660b42881e8ec5/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/HIZa7q8.jpg",158.Breaking News in Yuba County (2021-Comedy)
+https://cdn2ii.diebutx.com/own2hls/2020/53719bd461fe52fdee4b09321afd0d4f/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/tzn69SS.jpg",159.The Mad Monk (2021-Comedy)
+https://cdn2ii.diebutx.com/own2hls/2020/16e261514edd3ecb40befdddb2b6fc9b/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/TV7t2dF.jpg",160.I Care a Lot (2021-Comedy)
+https://cdn2ii.diebutx.com/own2hls/2020/d5345b593d97a14898e321dfbdcbb7d8/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/ujQtxip.jpg",161.Dead Again (2021-Comedy)
+https://cdn2ii.diebutx.com/own2hls/2020/4a438f729eecfb7f5b57f312533c2b39/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/uEBmK2X.jpg",162.The Right One (2021-Comedy)
+https://cdn3ii.diebutx.com/own2hls/2020/67303167dc0d62b40d55ac683ba38f69/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/hWkqGXi.jpg",163.The Map of Tiny Perfect Things (2021-Fantasy)
+https://cdn2ii.diebutx.com/own2hls/2020/021067a30fde31011709ee564e2d4c7d/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD-2021" tvg-logo="https://i.imgur.com/z6DPCB4.jpg",164.Tom and Jerry (2021-Kids)
+https://cdn2ii.diebutx.com/own2hls/2020/0dfcb92a188bc7676b71c95902e2cca7/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Scoob! (2020)
+http://srv32.nf21.net:80/files/15-2020-05-17-cbbc2c67ff235ab64fac2425d6bf2746.mp4
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Legacy (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/fad3d8a846ff9cf7de680bab92b3d87b/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Arus Merah (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/0b28f5e3f288a5a17b6489bc950133c1/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",The Flood (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/476a13fa1ef4c7fc1c71f480f2f04c51/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Hannah Gadsby: Douglas (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/f0b356679d57430a4e8cbcf3348e7d5e/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Death to 2020 (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/3befc0d0f964ca082cf6e7ac0f161b45/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Go Wild (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/e56c81d5449da58d87847affc58a3acd/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Caught in Time (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/710e4b3c0bb6a5eb2a832597f9afbd40/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Break (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/eb2099492e8f59fb5233769e463e4636/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",The Sacrifice (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/2a84f9523005c9d87bdfcb855e299197/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Skull: The Mask (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/79736514e1b0e2179f28a72f8783b76c/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Brothers by Blood (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/4cfbfabc6c14c64eed5be5ec14f5ebf2/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Kids: Elfland (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/c85c934bb0ef0a90e5cda12ae40ddd4b/360p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",The Booksellers (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/c71a06385f4154f3bb3ce824664e2a96/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Mother Gamer (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/7f4f52d6b6861d3d494c98d03779233a/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",The 100 Candles Game (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/c8eef9d5713eafa001b1193852f573c6/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",News of the World (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/2b73714381607322a18f8aba0ee64055/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Go/Don't Go (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/e7b976709159d82712a6e2c230d5218f/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Fatale (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/a913e15fe7f3d741aa15478c57494274/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Driven to the Edge (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/c7bbf6e0da337e331095cf7dde189669/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Don't Tell a Soul (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/fb83af3f0aafb980ae4e7bdac7cadc48/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Bright Hill Road (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/c2ed5099758bc1b198c083a2befa532e/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Bloody Hell (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/d3f2a83d7c24d05aa367550112447a17/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Ainu Mosir (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/765fe317fe865d87591c90f94268f734/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",American Thief (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/85200879f29f8bfa90e20b64a1642ff8/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Echo Boomers (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/1340f282d4151dd51bd34b1bb1989e5f/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Kids: Super Monsters: Dia de los Monsters (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/1a01623d18c04a62d17ec59f0a6e638a/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Kids: Monster Zone (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/361e9c90fae5559ae6b699d8013db3db/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Algorithm: BLISS (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/152ef54c67176235476369796aba7dc5/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",AK vs AK (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/91784424f9d5113c02fa1924c5adb7e1/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Kids: Elf Pets: Santa's Reindeer Rescue (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/3b6dca8210493862b6eccf84787ab50c/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Crazy Samurai Musashi (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/fe72782a9d59b271bbef7fa2d07c571a/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Kids: Chico Bon Bon and the Very Berry Holiday (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/d8ca1766ad50e7da63b9fdeabc2547af/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Army of One (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/905e3ea65f72dc2455fd922974950c7b/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Archenemy (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/0c052f5fe92b5403794e76a059b6eb18/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Horror: Savage Creatures (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/89eea15345778589302c897d5eb41b4a/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Adventure: Nina of the Woods (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/529fb8b154bfd7ab704813f428484322/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Adventure: Meteor Moon (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/c5a63739d9c93b2e6c374a6c880f3c4b/360p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Action: Fast Forward (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/9db7878b58028bb733c00947f7bf9b60/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Action: Darbar (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/820e5735b3585b1ffbd4d819884ba5c2/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Horror: Castle Freak (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/16177b59396578a9f31eeb9191b20849/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Horror: Camp Cold Brook (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/756c8be252a33e7fda2889e2a834cded/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Action: Breach (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/c673d59b3aac257831165b66bee324ed/360p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",War: Battle of the Bulge: Winter War (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/09ff9ea178ec74565a851399e7d41314/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Thriller: Escape: Puzzle of Fear (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/05be836ab98cb511901cb03b148c1d32/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Action: Embattled (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/cb5562204038cf5ffde8ed2176e4bd6a/360p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Action: Monster Hunter (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/daccfedc079aaa620543cef587c6ffaa/360p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Horror: The Rope Curse 2 (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/c9ffb15b8a928247b83eb8d5830460dc/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Action: Shadow in the Cloud (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/db074b36e21f104bb81c265ad61ab7ee/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Action: Snake: Fall of a City (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/36e71b16080ca3c19da25f7c6a380597/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Action: Mulan Angels 2: Treasure Map (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/4c5516f2c488e30c8672e80fd0a0d308/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Drama: Your Name Engraved Herein (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/1a86fe875081a0a4c2a1acff8400d47c/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Action: Wonder Woman 1984 (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/cf411a4c3cbff9b7b220302f038813cf/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Action: We Can Be Heroes (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/835fcaa7dca26e4c61f4adcaf2b00b3b/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Horror: Vampire Virus (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/9e3f8a0f2e6419fd68b1395268188817/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Action: Torbaaz (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/ea4a658577adad070994f0ff4c041831/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Action: The Golden Holiday (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/daf3c4b968dda3ff2b71084fddd0b484/360p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Crime: The Empty Man (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/545001948dc9707974c5d639df1f5b47/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Horror: The Bloodhound (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/b7356eb0daf8d5cca2c64de37721386c/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Adventure: Strain 100 (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/a6bceff5d849170be59511f1faa6dbb5/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Mistery: Frieda: Coming Home (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/bc2989da9ed05f2c03fa8e14d02a3307/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Action: Force of Nature (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/6b1d93947b54fe40e0fa3d94c3a643ac/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Drama: Exit (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/2066b558ed198474e48854ecd7cf6275/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Horror: Hunter Hunter (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/ae42e69fd36ef19d3d9e7db9703cdb58/360p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Action: Knuckledust (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/8d332212f9caa1d3e6af206526b20da4/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Action: Skylines (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/5bf5dd48e47ee6d73f03076087e31936/360p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Action: Seized (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/d97cae7893699e2ec56ee4251b7e2736/360p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Horror: Spare Parts (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/7a54df56b351e4358fb9aa87de84e77a/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Kids: The Croods: A New Age (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/200447cd05c30e6cf57b2b39f677f3f1/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Action: True and False Monkey King (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/0306e77677264980256847006301e838/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Drama: Inheritance (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/6916ee97a54af6dc6b2c09ab78faf683/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Crime: Savage (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/cd04110c5ff453faadaa98fe8c59abec/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Action: Monsters of Man (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/877d98cd8c8333e3e97505087bc241e5/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Kids: Magic Arch 3D (2020)
+https://cdn3ii.diebutx.com/own2hls/2020/af6c77cd918dc18841f05675abcd6c5a/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.imgur.com/oXWN0yL.png",Action: L.O.R.D: Legend of Ravaging Dynasties 2 (2020)
+https://cdn2ii.diebutx.com/own2hls/2020/7fb8d4f27064828f11d397a2f12e1632/540p/index.m3u8
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.ibb.co/0n2vzgf/Disturbing-the-Peace-2020.jpg",Disturbing the Peace (2020)
+https://www.googleapis.com/drive/v3/files/1HPtYkaa0sE-WmyzZS3YJdc4EYJI6C4H1?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.ibb.co/hFkX9cZ/Alone-2020.jpg",Alone (2020)
+https://www.googleapis.com/drive/v3/files/12Ry9Y-ZjUGkf4HW-etKF5tzp3LMl-amB?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.ibb.co/CnNjp24/Dolittle-2020.png",Dolittle (2020)
+https://www.googleapis.com/drive/v3/files/1ZV65BC0gJX3Emy0_FtvItxC9xvA35AVJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.ibb.co/bRjt3CS/Birds-of-Prey-2020.jpg",Birds of Prey (2020)
+https://www.googleapis.com/drive/v3/files/1tXkZqjHTPEhU5kavx5UQa7eCY2Ud6Ggv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.ibb.co/R6xZCtc/Sonic-the-Hedgehog-2020.jpg",Sonic the Hedgehog (2020)
+https://www.googleapis.com/drive/v3/files/1HNEmsRA4KQqIP7Gtt23Yt1qXNsEIlwvn?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.ibb.co/QXp78Wq/Lost-Girls-2020.jpg",Lost Girls (2020)
+https://www.googleapis.com/drive/v3/files/1HLJS3d6O_ahqX2JW01BpCJAOu3eRW9dy?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.ibb.co/fQkTN63/Film-Pokemon-Detective-Pikachu-2019-4.png",Pokemon Detective Pikachu (2019)
+https://www.dropbox.com/s/tm3v0cjd5fyzigv/Pokemon.Detective.Pikachu.2019.720p.BluRay-PusatFilm21.com.mp4?dl=1
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.ibb.co/ZV2H44Q/Abominable-2019.jpg",Abominable (2019)
+https://www.googleapis.com/drive/v3/files/17sDGwtnSLGrlbxUN8xDTbT8oVkBP5PPV?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.ibb.co/PTvzzNg/The-Lion-King-2019.jpg",The Lion King (2019)
+https://www.googleapis.com/drive/v3/files/1AYka1PFma7JZZFNS3AwxCD2Anfa43x9k?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.ibb.co/LtWKDtp/Aeronauts-2019.jpg",Aeronauts (2019)
+https://www.googleapis.com/drive/v3/files/1QxXWuBL8KCKXbwJA0LVaB2NiHyuQar98?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.ibb.co/fpp1Zq1/Skyscraper-2018.jpg",Skyscraper (2018)
+http://srv22.nf21.net:80/files/10-2018-10-27-3639bebebbcb9d7b82747ac94911e8fb.mp4
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.ibb.co/Lh0SBp8/Mission-Impossible-Fallout-2018.jpg",Mission Impossible: Fallout (2018)
+http://srv28.nf21.net:80/files/15-2019-03-17-5e6453922248470c10be803fc6fbaca5.mp4
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.ibb.co/BsVyZjg/The-Meg-2018.jpg",The Meg (2018)
+http://srv21.nf21.net:80/files/15-2018-10-12-90ffe641e6ab64d0e76fec94ad4e2c2e.mp4
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.ibb.co/0K4xZGd/Jurassic-World-Fallen-Kingdom-2018.jpg",Jurassic World: Fallen Kingdom (2018)
+http://srv18.nf21.net:80/files/10-2018-08-02-6c94fcf0d9abfe04aa7f1cf314d525b6.mp4
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.ibb.co/z6X7Fmq/Jumanji-Welcome-To-The-Jungle-2017.jpg",Jumanji: Welcome To The Jungle (2017)
+http://srv18.nf21.net:80/files/10-2018-08-03-a189798f7dc876fc5c04da23118265fc.mp4
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.ibb.co/5Wgbwyq/Tomb-Raider-2018.png",Tomb Raider (2018)
+http://srv18.nf21.net:80/files/10-2018-08-02-061abc079ba3e2908ee7019f2729a230.mp4
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.ibb.co/x2pYGdN/Extinction-2018.jpg",Extinction (2018)
+http://srv18.nf21.net:80/files/10-2018-08-02-622532ab81187c58e0b416cdb1e4eb4e.mp4
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.ibb.co/7QB1b8b/Doctor-Strange-2016.jpg",Doctor Strange (2016)
+http://srv19.nf21.net:80/files/10-2018-08-03-2d8f006fa85f4d9bae69d108e45c9e95.mp4
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.ibb.co/0qfKVJ3/Atlantic-Rim-Resurrection-2018.jpg",Atlantic Rim: Resurrection (2018)
+http://srv28.nf21.net:80/files/15-2019-02-13-3a0f53dc85236110bfb6ac9a2ce39c91.mp4
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.ibb.co/HGWZggc/The-Patriot-2000.jpg",The Patriot (2000)
+http://srv9.nf21.net/files/14-2018-06-25-b7a6f626f774070c8a902c0cba4b7196.mp4
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.ibb.co/ZBs70VW/Swordfish-2001.jpg",Swordfish (2001)
+http://srv11.nf21.net/files/14-2018-07-01-7cac6cb8081425b4596b478d9b594aca.mp4
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.ibb.co/94Bv22K/47-Meters-Down-Uncaged-2019.jpg",47 Meters Down: Uncaged (2019)
+https://www.googleapis.com/drive/v3/files/1W49D9iHci1_xKkR437Ok00vtByLPWbKG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.ibb.co/yQ9vYm3/Horrible-Bosses-2011.jpg",Horrible Bosses (2011)
+https://www.googleapis.com/drive/v3/files/10Rs1Op2H9CDO6ZYlj1KkudclNe6_aFiD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.ibb.co/FK1ryz7/My-Soul-to-Keep-2019.jpg",My Soul to Keep (2019)
+https://www.googleapis.com/drive/v3/files/1hF4_Kyo39V5isgBLnIvW-AjUVYzKYxPk?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.ibb.co/nMSv0bK/Contagion-2011.jpg",Contagion (2011)
+https://www.googleapis.com/drive/v3/files/10qU76qMTtD2pSSJ3yIjC2YNCi6xK5IBI?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://i.ibb.co/CK8Xzd8/Hitman-Agent-47-2015.jpg",Hitman: Agent 47 (2015)
+https://www.googleapis.com/drive/v3/files/1gR27s335-aR9fbkyxfugtP8DkcOEwONd?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://ibb.co/W3LKg0n",The two towers
+https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188048219
+#EXTINF:-1 group-title="NEW-VOD Barat" tvg-logo="https://ibb.co/W3LKg0n",The Fellowship of the Ring
+https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188048220
+#EXTINF:-1 group-title="NEW-VOD Indonesia" tvg-logo="https://i.ibb.co/GCHj6R5/hanum.jpg",Hanum & Rangga: Faith & The City (2018)
+http://srv28.nf21.net/files/11-2019-03-07-8575570eddbaea877dd7dce2a6a28d20.mp4
+#EXTINF:-1 group-title="NEW-VOD Indonesia" tvg-logo="https://i.ibb.co/rpDMSfQ/ugal.jpg",Bodyguard Ugal-Ugalan (2018)
+http://srv24.nf21.net/files/11-2018-11-09-4d0f5e263c6bc227c1b23c5145c32713.mp4
+#EXTINF:-1 group-title="NEW-VOD Indonesia" tvg-logo="https://i.ibb.co/xmjRqYL/ayat.jpg",Ayat-Ayat Cinta 2 (2017)
+http://srv24.nf21.net/files/15-2018-11-07-31623f82f631e22f304dc61fb9ae9975.mp4
+#EXTINF:-1 group-title="NEW-VOD Indonesia" tvg-logo="https://i.ibb.co/jGqR1BZ/Bajaj-Bajuri-The-Movie.jpg",Bajaj Bajuri: The Movie (2014)
+http://srv28.nf21.net/files/6-2019-03-05-7957077294aed7aae01ed7548527c194.mp4
+#EXTINF:-1 group-title="NEW-VOD Indonesia" tvg-logo="https://i.ibb.co/Ybtzv2n/terbang.jpg",Terbang: Menembus Langit (2018)
+http://srv28.nf21.net/files/11-2019-01-06-a873ac71241a867fe2aaeea36ecbe60c.mp4
+#EXTINF:-1 group-title="NEW-VOD Indonesia" tvg-logo="https://i.ibb.co/yfQDDQb/sah.jpg",Insya Allah Sah 2 (2018)
+http://srv24.nf21.net/files/10-2018-11-04-dcbe1927ad12c18b3d39efe1e310b3b5.mp4
+#EXTINF:-1 group-title="NEW-VOD Indonesia" tvg-logo="https://i.ibb.co/QnvrWk7/the.jpg",The Secret Suster Ngesot Urban Legend (2018)
+http://srv21.nf21.net:80/files/15-2018-10-13-820280bd87facc3cb2ea0cb5297764c0.mkv
+#EXTINF:-1 group-title="NEW-VOD Indonesia" tvg-logo="https://i.ibb.co/N7w5FDF/rom.jpg",Rompis (2018)
+http://srv28.nf21.net/files/15-2019-02-23-ba65b1712e9d0845b97ec790b4fa2b4b.mp4
+#EXTINF:-1 group-title="NEW-VOD Indonesia" tvg-logo="https://i.ibb.co/zFX1KSS/ari.jpg",Arini (2018)
+http://srv19.nf21.net/files/15-2018-08-19-4e022676b9971cfac33a65d84288c01d.mp4
+#EXTINF:-1 group-title="NEW-VOD Indonesia" tvg-logo="https://i.ibb.co/xq1ZVQJ/alaspati-rev20april.jpg",Alas Pati (2018)
+http://srv21.nf21.net/files/15-2018-10-13-7548eba8d3cdfd16055c14605d86b83c.mp4
+#EXTINF:-1 group-title="NEW-VOD Indonesia" tvg-logo="https://i.ibb.co/CBThgRX/london.jpg",London Love Story 3 (2018)
+http://srv19.nf21.net/files/15-2018-08-14-a71af058b7e0658b357ae236e70ac799.mp4
+#EXTINF:-1 group-title="NEW-VOD Indonesia" tvg-logo="https://i.ibb.co/G2QWh3t/biang.jpg",Benyamin Biang Kerok (2018)
+http://srv19.nf21.net/files/15-2018-08-14-2a88269fa86b8dab2575101a66eb0732.mp4
+#EXTINF:-1 group-title="NEW-VOD Indonesia" tvg-logo="https://i.ibb.co/3kzFJMg/rumputtetangga-imr.jpg",Rumput Tetangga (2019)
+https://dl.dropboxusercontent.com/s/spmmhz8vtd02wko/Nonton%20Film%20Rumput%20Tetangga%20%282019%29%20Ganool%20Movie%20Lk21%20Indoxx1%20Subtitle%20Indonesia%20Streaming%20Download%20-%20PlanetFilm21.mp4?dl=0
+#EXTINF:-1 group-title="NEW-VOD Indonesia" tvg-logo="https://i.ibb.co/541J8YD/lorong.jpg",Lorong (2019)
+https://dl.dropboxusercontent.com/s/54ju0mn1gl2t8bh/Nonton%20Film%20Lorong%20%282019%29%20Ganool%20Movie%20Lk21%20Indoxx1%20Subtitle%20Indonesia%20Streaming%20Download%20-%20PlanetFilm21.mp4?dl=0
+#EXTINF:-1 group-title="NEW-VOD Indonesia" tvg-logo="https://i.ibb.co/WcJTYgn/dahlan.jpg",Sepatu Dahlan (2014)
+http://srv28.nf21.net/files/6-2019-03-06-f7ab0cb8265616f14077202dc234ff7a.mp4
+#EXTINF:-1 group-title="NEW-VOD Indonesia" tvg-logo="https://i.ibb.co/TWfKGRv/hari.jpg",Suatu Hari Nanti (2017)
+http://srv18.nf21.net/files/15-2018-08-11-3d7d79b7e00aba5df3c61ce465e11cf8.mp4
+#EXTINF:-1 group-title="NEW-VOD Indonesia" tvg-logo="https://i.ibb.co/x33gbgq/555.jpg",Flight 555 (2018)
+http://srv19.nf21.net/files/15-2018-08-14-f0ddc7cdffd608547912ad3a1b33056f.mp4
+#EXTINF:-1 group-title="NEW-VOD Indonesia" tvg-logo="https://i.ibb.co/d6s9Qh7/Partikelir-2018.jpg",Partikelir (2018)
+http://srv19.nf21.net/files/15-2018-08-14-2ce82962771272049ff44e8f27cf3407.mp4
+#EXTINF:-1 group-title="NEW-VOD Indonesia" tvg-logo="https://i.ibb.co/dMXHJt8/Galih-dan-Ratna.jpg",Galih Dan Ratna (2017)
+http://srv18.nf21.net/files/15-2018-08-07-cad79a652ba7fd037ca11444b3bd3f5f.mp4
+#EXTINF:-1 group-title="NEW-VOD Indonesia" tvg-logo="https://i.ibb.co/89zKzrp/Revan-Reina-2018.jpg",Revan & Reina (2018)
+http://srv19.nf21.net/files/15-2018-08-14-b7cf77aba6b14e81c281f9f9cc6d2474.mp4
+#EXTINF:-1 group-title="NEW-VOD Indonesia" tvg-logo="https://i.ibb.co/pPdNLpZ/Naga-Bonar-Jadi-2-2007.jpg",Naga Bonar Jadi 2 (2007)
+http://srv18.nf21.net/files/15-2018-08-06-ea59a563a6a6a0a51ff4356a23035870.mp4
+#EXTINF:-1 group-title="NEW-VOD Indonesia" tvg-logo="https://i.ibb.co/4fkDYsj/My-Stupid-Bos-2016.jpg",My Stupid Bos (2016)
+http://srv18.nf21.net/files/15-2018-08-03-ce61122e665966846c98cf23645c9b83.mp4
+#EXTINF:-1 group-title="NEW-VOD Indonesia" tvg-logo="https://i.ibb.co/0ZVDqZf/Cek-Toko-Sebelah-2016.jpg",Cek Toko Sebelah (2016)
+http://srv18.nf21.net/files/10-2018-08-06-7dae19687c0d57fabf80cda51736f30d.mp4
+#EXTINF:-1 group-title="NEW-VOD Indonesia" tvg-logo="https://i.ibb.co/682ypgM/5-Cowok-Jagoan-2017.jpg",5 Cowok Jagoan (2017)
+http://srv18.nf21.net/files/15-2018-08-11-a853b03a150b6a4b09f6c5b46fc73861.mp4
