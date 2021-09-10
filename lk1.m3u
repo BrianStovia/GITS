@@ -15,7 +15,7 @@ http://gpc.my.id/vidio/gtv.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/XO2UZvzbejnywcM2yiS7QjX5r3Y=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/5da027.png" tvg-id="RIYAN.02151c8474aef3b878b51f04cbe52968.SHINTA" tvg-name"[CODAY] SCTV _VIDIO" group-title="LOCAL",[BRIAN STOVIA] SCTV _VIDIO
 http://210.210.155.35:80/session/2d666c26-78c0-11ea-a706-c81f66f89318/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/oznMlqHunOdzDHDYDXWU2PJYK34=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/ochannel-94c811.jpg" tvg-id="RIYAN.46b7cbc77d4401f32a1d31f74b00a63c.SHINTA" tvg-name"[CODAY] Ochannel _VIDIO" group-title="LOCAL",[BRIAN STOVIA] OCHANNEL _VIDIO
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=206
+http://103.194.171.75/film/nonton-infinite-2021-qudpta/
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="LOCAL",[BRIAN STOVIA] ANTV
 http://210.210.155.35:80/session/74698288-2ed3-11eb-82e0-c81f66f89318/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="LOCAL",[BRIAN STOVIA] TVONE 
