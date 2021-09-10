@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://dusktill.masuk.web.id/epg.xml" x-tvg-url="http://dusktill.masuk.web.id/epg.xml"
  
 #EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/06/ALHIDATV.png" ,BRIAN STOVIA 
-blob:https://youfiles.herokuapp.com/1d78e08c-9801-4af2-a707-914110d80c6fY
+https://github.com/BrianStovia/GITS/blob/main/my%20love.mp4?raw=true
 ############################### ALHIDAMART USEETV #################################
 // LOCAL 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/LHw7xDruwBTN453hoxcbt04esCM=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/52a30a.png" tvg-id="RIYAN.b84b634197217c59b5287d2bbf6405b8.SHINTA" tvg-name"[CODAY] Indosiar _VIDIO" group-title="LOCAL",[BRIAN STOVIA] INDOSIAR _VIDIO
