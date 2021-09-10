@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://dusktill.masuk.web.id/epg.xml" x-tvg-url="http://dusktill.masuk.web.id/epg.xml"
  
-#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/06/ALHIDATV.png" ,BRIAN STOVIA 
+#EXTINF:-1 tvg-logo="https://alhidamart.co.id/wp-content/uploads/2020/06/ALHIDATV.png" ,BRIAN STOVIA MASIH TEST
 https://github.com/BrianStovia/GITS/blob/main/my%20love.mp4?raw=true
 ############################### ALHIDAMART USEETV #################################
 // LOCAL 
