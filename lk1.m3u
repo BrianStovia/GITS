@@ -4,60 +4,70 @@
 https://github.com/BrianStovia/GITS/blob/main/my%20love.mp4?raw=true
 ############################### ALHIDAMART USEETV #################################
 // LOCAL 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/LHw7xDruwBTN453hoxcbt04esCM=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/52a30a.png" tvg-id="RIYAN.b84b634197217c59b5287d2bbf6405b8.SHINTA" tvg-name"[CODAY] Indosiar _VIDIO" group-title="LOCAL",[BRIAN STOVIA] INDOSIAR _VIDIO
-https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sZw2i9ccZgdDgKzXwiuuvs2gfFs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/5fd39e.png" tvg-id="RIYAN.3e4a4b8c2ef4520880a2623be11d2ee1.SHINTA" tvg-name"[CODAY] MNC _VIDIO" group-title="LOCAL",[BRIAN STOVIA] MNC _VIDIO
-http://gpc.my.id/vidio/mnc.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/5T4suHL5M2n18gyQMydjTkQTZ60=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/3f534c.png" tvg-id="RIYAN.0c75de01aced606c7a0640644a23ac9b.SHINTA" tvg-name"[CODAY] RCTI _VIDIO" group-title="LOCAL",[BRIAN STOVIA] RCTI _VIDIO
-http://gpc.my.id/vidio/rcti.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/2mJ0CtnOfeAOqfycxiEswQUIuTU=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/5c9984.png" tvg-id="RIYAN.786661b9bab09eb1eaf335719e3eaa3c.SHINTA" tvg-name"[CODAY] GTV _VIDIO" group-title="LOCAL",[BRIAN STOVIA] GTV _VIDIO
-http://gpc.my.id/vidio/gtv.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/XO2UZvzbejnywcM2yiS7QjX5r3Y=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/5da027.png" tvg-id="RIYAN.02151c8474aef3b878b51f04cbe52968.SHINTA" tvg-name"[CODAY] SCTV _VIDIO" group-title="LOCAL",[BRIAN STOVIA] SCTV _VIDIO
-http://210.210.155.35:80/session/2d666c26-78c0-11ea-a706-c81f66f89318/qwr9ew/s/s03/01.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/oznMlqHunOdzDHDYDXWU2PJYK34=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/ochannel-94c811.jpg" tvg-id="RIYAN.46b7cbc77d4401f32a1d31f74b00a63c.SHINTA" tvg-name"[CODAY] Ochannel _VIDIO" group-title="LOCAL",[BRIAN STOVIA] OCHANNEL _VIDIO
-http://103.194.171.75/film/nonton-infinite-2021-qudpta/
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="LOCAL",[BRIAN STOVIA] ANTV
-http://210.210.155.35:80/session/74698288-2ed3-11eb-82e0-c81f66f89318/qwr9ew/s/s07/01.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="LOCAL",[BRIAN STOVIA] TVONE 
-http://210.210.155.35/qwr9ew/s/s105/02.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/gXL66eqWjcsfy6MRv_Midv048UE=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/0002e6.png" tvg-id="RIYAN.184d50f00060109e7feaa52aa80a887b.SHINTA" tvg-name"[CODAY] Kompas TV _VIDIO" group-title="LOCAL",[BRIAN STOVIA] KOMPAS TV _VIDIO
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/3xt6dwBAkEERQGv9ZKuicf0jGhw=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6165/886adc.png" tvg-id="RIYAN.d5473022fc61186ddeeb895f71a5640d.SHINTA" tvg-name"[CODAY] BeritaSatu _VIDIO" group-title="LOCAL",[BRIAN STOVIA] BERITASATU _VIDIO
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/3qJzB7DThwYsbWIrCcCtAnWHoTM=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/6d4e21.png" tvg-id="RIYAN.c5bbb1ad4cd31ad4b8cfd3902e3b31fc.SHINTA" tvg-name"[CODAY] Metro TV _VIDIO" group-title="NEWS",[BRIAN STOVIA] METRO TV _VIDIO
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/s_QkQLWl7HHckGEdTP0SLF263Dc=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/f088c8.png" tvg-id="RIYAN.aa64d378973e3c373facf48c6f2e20f2.SHINTA" tvg-name"[CODAY] NET TV _VIDIO" group-title="LOCAL",[BRIAN STOVIA] NET TV _VIDIO
-http://210.210.155.35/qwr9ew/s/s08/01.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/wTm62e9G1jgoaj3KTkOGnwLVOIs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/709546.png" tvg-id="RIYAN.532c2d4898c446959228725678416175.SHINTA" tvg-name"[CODAY] TRANS TV _VIDIO" group-title="LOCAL",[BRIAN STOVIA] TRANS TV _VIDIO
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/9qCYQXMWeIb7WemTuzbxIKNakD4=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7464/e69965.png" tvg-id="RIYAN.2e26232986fd643c048bf8b56d2ecd8e.SHINTA" tvg-name"[CODAY] AJWA TV _VIDIO" group-title="RELIGIOUS",[BRIAN STOVIA] AJWA TV _VIDIO
-https://newlivetv.my.id/vidio/7464-LiveTV.m3u8?livetv
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/9eZPRxKXRyvalrrGmOUxBnpUcOc=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" tvg-id="RIYAN.4db8642975f810cabf3ceafc843b3458.SHINTA" tvg-name"[CODAY] TVRI _VIDIO" group-title="LOCAL",[BRIAN STOVIA] TVRI _VIDIO
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6441.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/6J9ZhPcm2bkBAxRHFFujiFjCDl0=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/25a886.png" tvg-id="RIYAN.2afd35cbfce355022a5885499042d451.SHINTA" tvg-name"[CODAY] Trans7 _VIDIO" group-title="LOCAL",[BRIAN STOVIA] Trans7 _VIDIO
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/KV55W68ho8bKftLIBDynTHWrn-4=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-tv-stream-a705ed.jpg" tvg-id="RIYAN.d3146a810383c16d660682db629bd430.SHINTA" tvg-name"[CODAY] Jaktv _VIDIO" group-title="LOCAL",[BRIAN STOVIA] JAKTV _VIDIO
+#EXTINF:-1 group-title="BRIAN STOVIA LOKAL" tvg-logo="https://i.ibb.co/GT70CtB/20200225-084711.png",RCTI
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 group-title="BRIAN STOVIA LOKAL" tvg-logo="https://i.ibb.co/3Bk8qLp/20200225-084949.png",MNC TV
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 group-title="BRIAN STOVIA LOKAL" tvg-logo="https://i.ibb.co/Gn7JV1j/20200225-085141.png",ANTV HD
+http://nonton.wap.sh/id/001.m3u8
+#EXTINF:-1 group-title="BRIAN STOVIA LOKAL" tvg-logo="https://i.ibb.co/pbRnLPv/20200225-085322.png",SCTV HD
+http://nonton.wap.sh/id/009.m3u8
+#EXTINF:-1 group-title="BRIAN STOVIA LOKAL" tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png",INDOSIAR HD
+http://nonton.wap.sh/id/002.m3u8
+#EXTINF:-1 group-title="BRIAN STOVIA LOKAL" tvg-logo="https://i.ibb.co/Tg53dB7/20200225-085803.png",GTV
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 group-title="BRIAN STOVIA LOKAL" tvg-logo="https://i.ibb.co/SNXKfjF/20200225-090137.png",TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 group-title="BRIAN STOVIA LOKAL" tvg-logo="https://i.ibb.co/5kmbfJv/20200225-090905.png",TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="BRIAN STOVIA LOKAL" tvg-logo="https://i.ibb.co/M2M4crG/20200225-090315.png",INEWS
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
+#EXTINF:-1 group-title="BRIAN STOVIA LOKAL" tvg-logo="https://i.ibb.co/VQRrBtd/20200225-090424.png",METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w727508021_b628000_sleng.m3u8
+#EXTINF:-1 group-title="BRIAN STOVIA LOKAL" tvg-logo="https://i.ibb.co/3mbCw3Q/20200225-090600.png",CNN Indonesia HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
+#EXTINF:-1 group-title="BRIAN STOVIA LOKAL" tvg-logo="https://i.ibb.co/jyKgLhq/20200225-092529.png",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
+#EXTINF:-1 group-title="BRIAN STOVIA LOKAL" tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png",TVRI
+http://118.97.50.107:80/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+#EXTINF:-1 group-title="BRIAN STOVIA LOKAL" tvg-logo="https://i.ibb.co/h72L4n4/20200225-093530.png",KOMPAS TV
+http://210.210.155.35/qwr9ew/s/s104/01.m3u8
+#EXTINF:-1 group-title="BRIAN STOVIA LOKAL" tvg-logo="https://i.ibb.co/tLYQsTm/20200225-091407.png",BERITA SATU
+http://nonton.wap.sh/id/015.m3u8
+#EXTINF:-1 group-title="BERITA",TVONE
+http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
+#EXTINF:-1 group-title="BERITA",TVONE (link2)
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/tuFUh0h-gokL4Xi8SIpwAypv8dY=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/a4981b.png" tvg-id="RIYAN.d754d1b845ef031250f997965b42c667.SHINTA" tvg-name"[CODAY] RTV _VIDIO" group-title="LOCAL",[BRIAN STOVIA] RTV _VIDIO
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/qUUDKcQCDBOzImtqFHk7Lm5EA3A=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-tv-stream-966ec1.jpg" tvg-id="RIYAN.77923d7f5287739ec97424f14d0b4af7.SHINTA" tvg-name"[CODAY] iNews _VIDIO" group-title="LOCAL",[BRIAN STOVIA] iNEWS _VIDIO
-http://gpc.my.id/vidio/inews.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/kv2lLgdD2PHxccwguz7hULZlrus=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6166/oshop-tv-stream-c16bc3.jpg" tvg-id="RIYAN.ce77e89f53f999171992988a06605105.SHINTA" tvg-name"[CODAY] OShop _VIDIO" group-title="LOCAL",[BRIAN STOVIA] OSHOP _VIDIO
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6166.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/-phU9_QRjXTgyeaJTGM79SRar3s=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6711/mytv-tv-stream-a36d9f.jpg" tvg-id="RIYAN.7c1d882a5c3187b8c8feaeb762e50d9d.SHINTA" tvg-name"[CODAY] MyTV _VIDIO" group-title="LOCAL",[BRIAN STOVIA] MyTV _VIDIO
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(915b425f-d5f6-4d77-9a60-857a7b14cb8b)/manifest.mpd
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/I_F8gqsVfsGp4MuuBO0Lh35QLOk=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-stream-6dc185.jpg" tvg-id="RIYAN.61ae98b435d4ff40dcea6347bfa4a166.SHINTA" tvg-name"[CODAY] DAAI TV _VIDIO" group-title="LOCAL",[BRIAN STOVIA] DAAI TV _VIDIO
+#EXTINF:-1 group-title="BERITA",Kompas
+http://210.210.155.35/session/3fa143e8-d4fe-11eb-9426-84d590ecc01f/qwr9ew/s/s104/02.m3u8
+#EXTINF:-1 group-title="BERITA",Kompas (Link2)
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-874.m3u8
+#EXTINF:-1 group-title="BERITA",MetroTV
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-777.m3u8
+#EXTINF:-1 group-title="BERITA",MetroTV (Link 2)
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/eroz_brebes.m3u8
+#EXTINF:-1 group-title="BERITA",CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+#EXTINF:-1 group-title="BERITA",CNN Indonesia (Link2)
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2136674526_b384000_sleng.m3u8
+#EXTINF:-1 group-title="BERITA",CBNC Indonesia
+http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
+#EXTINF:-1 group-title="BERITA",MNC NOW
+https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX-avc1_499968=8-mp4a_66000_eng=2.m3u8
+#EXTINF:-1 group-title="BERITA",BERITA_SATU
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8?aux=eroz_brebes.m3u8
+#EXTINF:-1 group-title="BERITA",BERITA_SATU
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6165.m3u8
+#EXTINF:-1 group-title="BERITA",DAITV
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6482.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/yD_Ig6mNztgtUqxRSLjmEwnsJlQ=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-6e9626.jpg" tvg-id="RIYAN.c21ec60430efcd9727a02ba2e8aded14.SHINTA" tvg-name"[CODAY] Nusantara TV _VIDIO" group-title="LOCAL",[BRIAN STOVIA] NUSANTARA TV _VIDIO
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-7432.m3u8
 
 // LOCAL 2
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rcti.png" group-title="LOCAL 2",[BRIAN STOVIA] RCTI
-http://gpc.my.id/vidio/rcti.m3u8
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-id="mnctv" tvg-logo="http://kamiselaluada.com/img/mnctv.png" group-title="LOCAL 2",[BRIAN STOVIA] MNCTV 
-http://gpc.my.id/vidio/mnc.m3u8
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/gtv.png" group-title="LOCAL 2",[BRIAN STOVIA] GTV
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=778
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/inews.png" group-title="LOCAL 2",[BRIAN STOVIA] iNEWS
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=5409
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/nasatv.png" group-title="LOCAL 2",[BRIAN STOVIA] NASA TV 
@@ -385,13 +395,13 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4
 
 // HBO ID CODAY
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/4fe0c0b0-bf97-491b-8c8d-34482aa4f613.png" group-title="HBO GO",[BRIAN STOVIA] ID:HBO  
-https://gratismkctv.net/film/hbo.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/HBO/index.m3u8
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/33b62539-fe26-4eae-a03f-75b5d1754f05.png" group-title="HBO GO",[BRIAN STOVIA] ID:HBO Signature  
 http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/f9e915bc-2e3d-4bee-86a3-d1b689d98152.png" group-title="HBO GO",[BRIAN STOVIA] ID:HBO Hits  
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=c81e728d9d4c2f636f067f89cc14862c202cb962ac59075b964b07152d234b70
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/eedae4cd-a010-4405-b545-28902eb1dbb0.png" group-title="HBO GO",[BRIAN STOVIA] ID:HBO Family  
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=eccbc87e4b5ce2fe28308fd9f2a7baf3202cb962ac59075b964b07152d234b70
+https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/40b8a63f-dde1-4813-9c62-3ffc0d7f35c8.png" group-title="HBO GO",[BRIAN STOVIA] ID:Cinemax  
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=a87ff679a2f3e71d9181a67b7542122c202cb962ac59075b964b07152d234b70
 #EXTINF:-1  tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/d3a81fd0-b150-483f-bd95-2d81769cef18.png" group-title="HBO GO",[BRIAN STOVIA] ID:Red By HBO  
