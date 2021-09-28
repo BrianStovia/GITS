@@ -393,6 +393,10 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-4
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
 
 
+
+
+
+
 // HBO ID CODAY
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/4fe0c0b0-bf97-491b-8c8d-34482aa4f613.png" group-title="HBO GO",[BRIAN STOVIA] ID:HBO  
 https://liveorigin01.hbogoasia.com:8443/origin/live/HBO/index.m3u8
@@ -420,6 +424,14 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=a87ff679a2f3e71d9181a67b7542122cd045c59a90d7587d8d671b5f5aec4e7c
 #EXTINF:-1  tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/d3a81fd0-b150-483f-bd95-2d81769cef18.png" group-title="HBO GO",[BRIAN STOVIA] Red By HBO 
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=e4da3b7fbbce2345d7772b0674a318d5d045c59a90d7587d8d671b5f5aec4e7c
+
+#EXTM3U
+#EXT-X-VERSION:7
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audiod",NAME="audio_eng",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",LANGUAGE="eng",URI="https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/5.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYyNjI2MDk0Mn19fV19&Signature=W6PMolqOXv4fWAyCza2Bg-IWxJhbE7LVMLNA7nLpL7MCmslEfiv00sO-cPFnUDydx6C5UgnBR6v-WnI8fEb4yOFQB1L7rX5~h3zsZuThKUpZSY4WodLoKsh5ow8ZtlUKyCHpL8IANuyRMT0N3mxc44N5St3qRVs1dY8uu8ELtdxYEJwAMSCc8WS9gvbXZGJSpWIAg~IbPOHb2fSddViEqALIdSDpmde-a7cmjQUo8JNuuqdFlUR4NHpB9G-KD9FPgpLVHiG9f20Ts2YaR7vrP9Zmlg4u5LYtWxK~gb7Td71oER5wwvbcMMavd1BaRh8Y636i4DixwKkSP15LwDEoJA__&Key-Pair-Id=APKAJFBTWETXLROKW43A"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="ind",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="ind",URI="https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/13.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYyNjI2MDk0Mn19fV19&Signature=W6PMolqOXv4fWAyCza2Bg-IWxJhbE7LVMLNA7nLpL7MCmslEfiv00sO-cPFnUDydx6C5UgnBR6v-WnI8fEb4yOFQB1L7rX5~h3zsZuThKUpZSY4WodLoKsh5ow8ZtlUKyCHpL8IANuyRMT0N3mxc44N5St3qRVs1dY8uu8ELtdxYEJwAMSCc8WS9gvbXZGJSpWIAg~IbPOHb2fSddViEqALIdSDpmde-a7cmjQUo8JNuuqdFlUR4NHpB9G-KD9FPgpLVHiG9f20Ts2YaR7vrP9Zmlg4u5LYtWxK~gb7Td71oER5wwvbcMMavd1BaRh8Y636i4DixwKkSP15LwDEoJA__&Key-Pair-Id=APKAJFBTWETXLROKW43A"
+#EXT-X-STREAM-INF:BANDWIDTH=1964424,AVERAGE-BANDWIDTH=1964424,CODECS="avc1.64001f,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=960x540,AUDIO="audiod",SUBTITLES="subs"
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYyNjI2MDk0Mn19fV19&Signature=W6PMolqOXv4fWAyCza2Bg-IWxJhbE7LVMLNA7nLpL7MCmslEfiv00sO-cPFnUDydx6C5UgnBR6v-WnI8fEb4yOFQB1L7rX5~h3zsZuThKUpZSY4WodLoKsh5ow8ZtlUKyCHpL8IANuyRMT0N3mxc44N5St3qRVs1dY8uu8ELtdxYEJwAMSCc8WS9gvbXZGJSpWIAg~IbPOHb2fSddViEqALIdSDpmde-a7cmjQUo8JNuuqdFlUR4NHpB9G-KD9FPgpLVHiG9f20Ts2YaR7vrP9Zmlg4u5LYtWxK~gb7Td71oER5wwvbcMMavd1BaRh8Y636i4DixwKkSP15LwDEoJA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 
 //VIDIO PREMIUM by @RiyanCoday
 
