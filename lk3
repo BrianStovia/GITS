@@ -98,6 +98,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0-4
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/manifest.mpd
 #EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="http://kamiselaluada.com/img/seatoday.png",SEA TODAY
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
+
 #EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="https://i.ibb.co/GT70CtB/20200225-084711.png",RCTI
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 group-title="NEW-LOKAL" tvg-logo="https://i.ibb.co/3Bk8qLp/20200225-084949.png",MNC TV
@@ -1429,3 +1430,5 @@ http://scontent.1xcdn.xyz/j2/Ten2_HD_HLS.m3u8
 #EXTINF:-1 group-title=" TES LIVE EURO ", SONY TEN 3 HD
 #EXTINF:-1 group-title=" TES LIVE EURO ", SONY TEN 6 HD
 http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44713
+#EXTINF:-1 group-title=" TES LIVE EURO ", Sqq
+https://cloudstream.embeddrive.net/playlists/5e359dd7-3a8f-4d69-95d0-bc093c24c127/cf.m3u8
