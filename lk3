@@ -1448,4 +1448,4 @@ https://cdn-sing-1.embeddrive.net/playlists/bea79df3-29d4-4dfe-a5cd-a89879c10577
 
 
 #EXTINF:-1 group-title=" TES LIVE EURO ", test 
-http://192.168.1.59:8096/emby/videos/1573/stream.mp4?DeviceId=5eecb30f-1a98-4210-8426-835ad7b74f09&MediaSourceId=81aa2b21a57dfe37a7cdedad6d5cf008&Static=true&PlaySessionId=bb806044a66d4fe5b2b9415f46f87c7c&api_key=56f3d8e69add4264a2ee58429c6eca2d#t=5968.745512
+http://192.168.1.59:8096/emby/videos/1573/stream.mp4?DeviceId=5eecb30f-1a98-4210-8426-835ad7b74f09&MediaSourceId=81aa2b21a57dfe37a7cdedad6d5cf008&Static=true&PlaySessionId=bb806044a66d4fe5b2b9415f46f87c7c&api_key=http://192.168.1.59:8096/emby/videos/1573/stream.mp4?DeviceId=5eecb30f-1a98-4210-8426-835ad7b74f09&MediaSourceId=81aa2b21a57dfe37a7cdedad6d5cf008&Static=true&PlaySessionId=bb806044a66d4fe5b2b9415f46f87c7c&api_key=56f3d8e69add4264a2ee58429c6eca2d#t=5968.745512#t=5968.745512
